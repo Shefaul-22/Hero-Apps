@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       
-      <h1>Hero apps</h1>
+      <h1>AppVerse Hub</h1>
       
     </>
   )
