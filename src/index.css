@@ -7,3 +7,9 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+
+.nav-link.active {
+  color: #632EE3;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}

@@ -1,13 +1,16 @@
 import React from 'react';
 import { NavLink } from 'react-router';
-import logo from '../../assets/logo.png'
+import logo from '../../assets/logo.png';
+
 
 const Navbar = () => {
 
     const links = <>
-        <li><NavLink to="/">Home</NavLink></li>
-        <li><NavLink to="/apps">Apps</NavLink></li>
-        <li><NavLink to="/installation">Installation</NavLink></li>
+
+        <li><NavLink to="/" className={`font-semibold text-[16px] nav-link`}>Home</NavLink></li>
+        <li><NavLink to="/apps" className={`font-semibold text-[16px] nav-link`}>Apps</NavLink></li>
+        <li><NavLink to="/installation" className={`font-semibold text-[16px] nav-link`}>Installation</NavLink></li>
+
     </>
 
     return (
@@ -29,11 +32,11 @@ const Navbar = () => {
                 </div>
 
 
-                <NavLink to="/" className='flex gap-1 items-center'>
+                <NavLink to="/" className='flex gap-1 items-center '>
 
-                    <img className='w-10 h-10 ' src={logo} alt="" />
+                    <img className='w-11 h-11 ' src={logo} alt="" />
 
-                    <h2 className=" text-xl">AppVerse</h2>
+                    <h2 className=" text-2xl bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold ">AppVerse</h2>
 
                 </NavLink>
 
@@ -47,7 +50,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end mr-3 md:mr-0">
-                <button>Contribute</button>
+                <NavLink to={`https://github.com/Shefaul-22?tab=repositories`} className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] font-semibold text-[#ffffff] py-5 text-[16px]'><img className='w-6 h-6' src="https://i.ibb.co/C3y0HBNS/github.png"></img> Contribute</NavLink>
             </div>
         </div>
     );
