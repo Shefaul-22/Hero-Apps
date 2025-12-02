@@ -34,7 +34,7 @@ const HeroSection = () => {
 
                     <h2 className=' text-center font-bold text-3xl md:text-5xl   mb-10 text-white'>Trusted by Millions, Built for You</h2>
 
-                    <div className='flex justify-between px-2 md:px-80'>
+                    <div className='flex justify-between px-2 md:px-40 lg:px-80'>
                         <div className='space-y-4'>
                             <p className='text-center text-[16px] text-white'>Total Downloads</p>
                             <h3 className='text-center  text-white font-extrabold text-4xl md:text-6xl'>29.6M</h3>
