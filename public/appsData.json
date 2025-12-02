@@ -1,0 +1,3467 @@
+[
+  {
+    "image": "https://img.icons8.com/fluency/512/task.png",
+    "title": "SmPlan: ToDo List with Reminder",
+    "companyName": "SmPlan Inc",
+    "id": 1,
+    "description": "SmPlan: ToDo List with Reminder is a comprehensive productivity app designed to help users manage their daily tasks efficiently and never miss important deadlines. The app allows creating, organizing, and prioritizing tasks with advanced smart reminders that adapt to user schedules. Users can categorize tasks, set recurring tasks, and track their progress through visual analytics and reports. Collaborative tools enable sharing tasks with family, friends, or colleagues, making team coordination seamless. Customizable themes, motivational alerts, and achievement tracking keep users engaged and focused on completing their goals. Security measures ensure that all data is encrypted and protected, maintaining user privacy. Ideal for students, professionals, and anyone looking to optimize daily routines, SmPlan enhances productivity, time management, and organization consistently while providing a simple and intuitive user interface that makes planning enjoyable and stress-free.",
+    "size": 25,
+    "reviews": 15432,
+    "ratingAvg": 4.5,
+    "downloads": 3245123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 512
+      },
+      {
+        "name": "2 star",
+        "count": 215
+      },
+      {
+        "name": "3 star",
+        "count": 634
+      },
+      {
+        "name": "4 star",
+        "count": 2511
+      },
+      {
+        "name": "5 star",
+        "count": 11260
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/graph.png",
+    "title": "Volt Tracker: Expense Manager",
+    "companyName": "VoltSoft",
+    "id": 2,
+    "description": "Volt Tracker: Expense Manager is an advanced financial management app that allows users to monitor their daily expenses, create budgets, and track financial goals with ease. The app provides detailed analytics, charts, and reports to help users understand spending patterns, identify areas to save, and make informed financial decisions. Multiple account support, recurring payments, and customizable expense categories make tracking finances flexible and convenient. The app also offers notifications and alerts for upcoming bills, budget limits, and unusual spending to prevent overspending. Security features, including encryption and secure storage, ensure user data remains private and protected. Suitable for students, professionals, and families, Volt Tracker simplifies money management, encourages financial discipline, and helps users develop healthy financial habits. Its intuitive interface, collaborative features, and comprehensive reporting make budgeting effortless and effective.",
+    "size": 30,
+    "reviews": 10234,
+    "ratingAvg": 4.6,
+    "downloads": 2145123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 8234
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "TimeMate: Calendar & Scheduler",
+    "companyName": "TimeSoft",
+    "id": 3,
+    "description": "TimeMate: Calendar & Scheduler is a versatile app for managing events, appointments, and daily schedules. It offers a user-friendly interface where users can create events, set reminders, and organize their calendar with color-coded categories. Recurring events, priority levels, and smart notifications ensure users never miss important meetings or deadlines. Integrated analytics provide insights into time usage and productivity patterns, allowing better planning and efficient time management. Collaborative features allow sharing schedules with colleagues, family, or friends for enhanced coordination. The app supports syncing with other calendars, importing tasks, and exporting schedules for flexibility across devices. Security measures protect user data and ensure privacy. Designed for students, professionals, and busy individuals, TimeMate enhances productivity by simplifying planning, improving time awareness, and helping users stay organized, focused, and on top of their commitments every day.",
+    "size": 28,
+    "reviews": 8765,
+    "ratingAvg": 4.4,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 175
+      },
+      {
+        "name": "3 star",
+        "count": 421
+      },
+      {
+        "name": "4 star",
+        "count": 1721
+      },
+      {
+        "name": "5 star",
+        "count": 5836
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "ShopEasy: Smart Shopping List",
+    "companyName": "EasyApps",
+    "id": 4,
+    "description": "ShopEasy: Smart Shopping List is an intuitive app that helps users create, manage, and optimize their shopping experience. Users can build multiple shopping lists, categorize items, and set reminders for grocery trips or purchases. The app provides price tracking, discounts, and smart suggestions to save money and avoid forgetting items. Collaborative features allow sharing lists with family or friends for seamless coordination. Users can track spending, view past purchases, and plan budgets efficiently. Customizable themes and notifications enhance engagement, while secure storage protects user information. Designed for individuals, families, and students, ShopEasy combines practicality with simplicity, offering a smooth interface, smart insights, and tools to improve shopping efficiency. By organizing shopping habits and helping users make informed purchasing decisions, ShopEasy reduces stress, saves time, and promotes smarter consumer habits every day.",
+    "size": 20,
+    "reviews": 6521,
+    "ratingAvg": 4.3,
+    "downloads": 945123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 215
+      },
+      {
+        "name": "2 star",
+        "count": 142
+      },
+      {
+        "name": "3 star",
+        "count": 321
+      },
+      {
+        "name": "4 star",
+        "count": 1221
+      },
+      {
+        "name": "5 star",
+        "count": 4622
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "FitTrack: Health & Fitness",
+    "companyName": "FitSoft",
+    "id": 5,
+    "description": "FitTrack: Health & Fitness is a complete wellness app designed to monitor workouts, nutrition, and overall health. Users can track exercises, create workout plans, set fitness goals, and monitor progress with detailed analytics. Nutrition tracking features help manage diet, calories, and hydration, while reminders encourage daily consistency. The app supports wearable integrations, social sharing, and collaborative fitness challenges to keep users motivated. Progress reports, achievement badges, and personalized suggestions enhance engagement and help users stay committed to their goals. Security and privacy features ensure personal health data is protected. Suitable for beginners and advanced users, FitTrack provides an intuitive interface, comprehensive tracking, and actionable insights. By combining innovative technology with user-centered design, FitTrack empowers individuals to maintain a healthier lifestyle, improve fitness, and achieve wellness goals effectively while promoting sustainable habits and consistent progress.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "TuneWave: Music Player & Playlist",
+    "companyName": "SoundSoft",
+    "id": 6,
+    "description": "TuneWave: Music Player & Playlist is an advanced audio app designed to provide users with a seamless music listening experience. Users can create, organize, and share playlists, explore trending tracks, and enjoy high-quality audio streaming. The app offers personalized recommendations based on listening habits, supports offline downloads, and integrates with social media for sharing favorite tracks. Equalizer settings, theme customization, and smart playlists enhance user engagement. Notifications for new releases, curated playlists, and live events keep users updated. The app ensures data security and privacy with encrypted storage for playlists and personal preferences. Suitable for casual listeners, audiophiles, and professional musicians, TuneWave provides an intuitive interface, powerful search, and discovery features. By combining innovation with user-centered design, TuneWave enhances enjoyment, music exploration, and daily entertainment, making listening convenient, fun, and highly personalized for every user.",
+    "size": 27,
+    "reviews": 8421,
+    "ratingAvg": 4.6,
+    "downloads": 1542310,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 421
+      },
+      {
+        "name": "2 star",
+        "count": 253
+      },
+      {
+        "name": "3 star",
+        "count": 842
+      },
+      {
+        "name": "4 star",
+        "count": 2145
+      },
+      {
+        "name": "5 star",
+        "count": 4659
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "ReadEase: eBook Library & Reader",
+    "companyName": "BookSoft",
+    "id": 7,
+    "description": "ReadEase: eBook Library & Reader is a comprehensive app for book lovers, students, and professionals, offering access to a vast library of digital books. Users can read eBooks with adjustable fonts, themes, and brightness settings for optimal comfort. The app includes bookmarks, notes, highlights, and synchronization across devices to maintain reading continuity. Advanced search and categorization make it easy to discover titles by genre, author, or popularity. Users can share quotes, reading lists, and notes with friends or study groups. Offline access, cloud backup, and secure storage ensure convenience and privacy. ReadEase combines personalized recommendations, interactive reading features, and an intuitive interface to promote reading habits. It helps users explore literature, gain knowledge, and enhance learning while providing an engaging and organized reading experience suitable for casual readers, students, and professionals alike.",
+    "size": 32,
+    "reviews": 9654,
+    "ratingAvg": 4.5,
+    "downloads": 1324512,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 482
+      },
+      {
+        "name": "2 star",
+        "count": 196
+      },
+      {
+        "name": "3 star",
+        "count": 874
+      },
+      {
+        "name": "4 star",
+        "count": 2654
+      },
+      {
+        "name": "5 star",
+        "count": 3648
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "GameHub: Mobile Gaming Platform",
+    "companyName": "NextGen",
+    "id": 8,
+    "description": "GameHub: Mobile Gaming Platform is an all-in-one app for discovering, playing, and sharing mobile games. Users can access a curated library of popular games across genres, track achievements, and compete with friends via leaderboards and multiplayer modes. Personalized recommendations help users find new games matching their interests. Social features include in-app chat, tournaments, and community forums for interaction. Security and parental controls ensure safe gameplay, while offline support and cloud save functionality enhance flexibility. GameHub is suitable for casual gamers, competitive players, and game enthusiasts, offering an intuitive interface, smooth performance, and comprehensive analytics. By integrating discovery, social engagement, and progress tracking, GameHub enhances gaming experiences, keeps users engaged, and fosters a vibrant mobile gaming community.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "SnapShot: Photo Editor & Filters",
+    "companyName": "BrightApps",
+    "id": 9,
+    "description": "SnapShot: Photo Editor & Filters is a professional-grade photo editing app that lets users enhance, adjust, and creatively transform images. Features include cropping, color adjustments, filters, blemish removal, text overlays, stickers, and collage creation. Batch editing and real-time filters improve efficiency, while cloud backup and secure storage protect user data. Users can share photos directly to social media platforms. Tutorials and pre-designed templates make it accessible to beginners, while advanced tools satisfy experienced creators. SnapShot is suitable for amateur photographers, social media enthusiasts, and professional content creators. Combining powerful editing tools, an intuitive interface, and creative features, SnapShot empowers users to create visually appealing images, express artistic ideas, and share high-quality photos effortlessly. The app promotes creativity and convenience, making photo editing engaging and accessible for all users.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "WeatherWise: Forecast & Alerts",
+    "companyName": "TechNova",
+    "id": 10,
+    "description": "WeatherWise: Forecast & Alerts is a reliable weather app providing real-time updates, forecasts, and severe weather alerts. Users can view hourly, daily, and weekly forecasts, including temperature, humidity, wind speed, and precipitation. Interactive radar maps, graphs, and detailed insights help users plan daily activities and travel safely. Customizable notifications for severe weather, rainfall, or extreme conditions ensure timely alerts. Widgets allow quick access to weather information on the home screen. WeatherWise protects user location data and guarantees privacy. Ideal for commuters, travelers, and outdoor enthusiasts, the app combines an intuitive interface, accurate forecasting, and actionable alerts. By offering comprehensive weather information, WeatherWise empowers users to make informed decisions, stay prepared, and enjoy outdoor activities with confidence regardless of changing weather conditions.",
+    "size": 28,
+    "reviews": 9321,
+    "ratingAvg": 4.4,
+    "downloads": 1432567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "TravelMate: Trip Planner & Guide",
+    "companyName": "SmartApps",
+    "id": 11,
+    "description": "TravelMate: Trip Planner & Guide is a comprehensive travel app designed to simplify planning, exploration, and organization for travelers. Users can create detailed itineraries, discover attractions, book accommodations, and track travel documents. Offline maps, personalized recommendations, and notifications help users navigate new destinations efficiently. Collaborative features allow sharing travel plans with family or friends. Budget tracking, reminders, and progress summaries ensure smooth trips. TravelMate protects sensitive data like personal documents and payment information. Ideal for solo travelers, families, and groups, the app offers an intuitive interface, interactive guides, and analytics for travel habits. By integrating planning, discovery, and organization, TravelMate enhances travel efficiency, reduces stress, and ensures memorable experiences worldwide.",
+    "size": 33,
+    "reviews": 8321,
+    "ratingAvg": 4.5,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2132
+      },
+      {
+        "name": "5 star",
+        "count": 6158
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "NutriTrack: Diet & Nutrition",
+    "companyName": "FitSoft",
+    "id": 12,
+    "description": "NutriTrack: Diet & Nutrition is a wellness app helping users monitor daily food intake, track calories, and manage nutrients for a healthy lifestyle. Users can plan meals, receive personalized diet suggestions, and analyze nutrient intake. Integration with fitness trackers allows monitoring of activity, sleep, and hydration. Recipes, grocery lists, and reminders support consistent healthy habits. Secure storage protects sensitive data. Suitable for individuals aiming for weight management, athletes, or health-conscious users, NutriTrack provides a user-friendly interface, motivational tips, and educational resources. By combining nutrition tracking, goal setting, and analytics, NutriTrack empowers users to make informed dietary choices, improve health, and achieve fitness objectives consistently, promoting long-term wellness and sustainable habits.",
+    "size": 31,
+    "reviews": 9234,
+    "ratingAvg": 4.6,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 513
+      },
+      {
+        "name": "4 star",
+        "count": 2132
+      },
+      {
+        "name": "5 star",
+        "count": 6070
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "MarketBuddy: Smart Shopping Deals",
+    "companyName": "EasyApps",
+    "id": 13,
+    "description": "MarketBuddy: Smart Shopping Deals helps users find discounts, track prices, and make informed purchase decisions. Users can create and manage shopping lists, receive alerts for sales or promotions, and compare product prices. Collaborative list sharing allows coordination with family or friends. The app provides analytics on spending habits, recommendations for cost-saving, and coupon management. Secure storage and encrypted transactions ensure privacy. Ideal for budget-conscious shoppers and families, MarketBuddy combines convenience, insights, and savings-focused tools to improve shopping efficiency. Users can plan purchases effectively, reduce expenses, and enjoy a stress-free shopping experience. The intuitive interface and smart notifications enhance usability, making MarketBuddy a must-have companion for smart consumer habits and optimized spending.",
+    "size": 29,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "BeatFlow: Streaming & Playlists",
+    "companyName": "SoundSoft",
+    "id": 14,
+    "description": "BeatFlow: Streaming & Playlists is a comprehensive music streaming app providing access to millions of tracks across genres. Users can create playlists, follow artists, and enjoy personalized recommendations based on listening history. Offline downloads, cross-device syncing, and equalizer customization enhance the experience. Notifications keep users updated on new releases and live events. Social sharing, collaborative playlists, and community engagement enrich interactions. The app ensures secure storage and protects user preferences. BeatFlow is suitable for casual listeners, music enthusiasts, and DJs, offering an intuitive interface and discovery features. By combining streaming, personalization, and social engagement, BeatFlow provides a complete music entertainment platform, enabling users to explore, enjoy, and share music seamlessly.",
+    "size": 32,
+    "reviews": 9423,
+    "ratingAvg": 4.6,
+    "downloads": 1547890,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "PlanIt: Event Organizer",
+    "companyName": "TimeSoft",
+    "id": 15,
+    "description": "PlanIt: Event Organizer is a versatile app that allows users to manage personal and professional events efficiently. Users can schedule appointments, create detailed agendas, set reminders, and categorize tasks by priority. Collaboration features enable inviting participants, sharing schedules, and tracking responses. The app provides analytics on productivity, notifications to optimize time, and integration with other calendar services. Security measures protect sensitive event information. PlanIt is ideal for professionals, students, and families seeking better organization. Its intuitive interface, customizable themes, and detailed reporting ensure smooth event management. By combining planning, collaboration, and analytics, PlanIt helps users stay organized, maximize efficiency, and balance daily responsibilities effectively, enhancing productivity and minimizing missed events.",
+    "size": 29,
+    "reviews": 8123,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2132
+      },
+      {
+        "name": "5 star",
+        "count": 6158
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/task.png",
+    "title": "TaskMaster: Productivity Planner",
+    "companyName": "AppSoft",
+    "id": 16,
+    "description": "TaskMaster: Productivity Planner is a comprehensive productivity app that helps users organize daily tasks, set priorities, and track progress efficiently. Users can create tasks, set deadlines, categorize by projects, and add recurring reminders to ensure nothing is missed. Collaborative features allow sharing tasks with colleagues or family for better coordination. Visual analytics and progress reports help monitor productivity patterns and optimize schedules. Custom themes, motivational alerts, and achievement tracking keep users engaged. Security measures protect personal data and task details. TaskMaster is suitable for students, professionals, and busy individuals seeking efficient time management. With an intuitive interface and practical tools, TaskMaster enhances organization, focus, and productivity, helping users meet deadlines, manage responsibilities, and accomplish goals effectively while reducing stress and improving time management habits consistently.",
+    "size": 27,
+    "reviews": 8421,
+    "ratingAvg": 4.6,
+    "downloads": 1542310,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 421
+      },
+      {
+        "name": "2 star",
+        "count": 253
+      },
+      {
+        "name": "3 star",
+        "count": 842
+      },
+      {
+        "name": "4 star",
+        "count": 2145
+      },
+      {
+        "name": "5 star",
+        "count": 4659
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/graph.png",
+    "title": "FinTrack: Expense & Budget Manager",
+    "companyName": "VoltSoft",
+    "id": 17,
+    "description": "FinTrack: Expense & Budget Manager is a robust financial management app that enables users to track expenses, set budgets, and manage finances efficiently. Users can categorize spending, monitor income, and visualize trends with detailed charts and reports. Alerts notify users of upcoming bills, budget limits, or unusual transactions. Collaborative features allow sharing budgets with family or team members for coordinated planning. The app supports multiple accounts, recurring payments, and customizable expense categories. Security features ensure data privacy with encrypted storage. Suitable for students, professionals, and families, FinTrack improves financial awareness, encourages disciplined spending, and helps achieve financial goals. With an intuitive interface, analytics, and actionable insights, users can optimize spending, save effectively, and maintain financial control effortlessly while enjoying a simple, organized budgeting experience.",
+    "size": 30,
+    "reviews": 9623,
+    "ratingAvg": 4.6,
+    "downloads": 1324512,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 8234
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "TimeMate: Calendar & Scheduler",
+    "companyName": "TimeSoft",
+    "id": 18,
+    "description": "TimeMate: Calendar & Scheduler is a versatile scheduling app designed to organize events, appointments, and personal tasks efficiently. Users can create events with reminders, set recurring tasks, and categorize activities for clarity. Collaborative features enable sharing calendars with friends, family, or colleagues. The app offers analytics and visual tracking to monitor time usage and productivity patterns. Notifications help users stay on top of deadlines and appointments. TimeMate integrates with other calendars and supports exporting schedules for seamless management. Security measures protect user data and privacy. Suitable for students, professionals, and busy individuals, TimeMate provides an intuitive interface, customizable themes, and interactive features that enhance time management. By combining scheduling, analytics, and collaboration, TimeMate ensures efficient planning, better focus, and improved organization, helping users manage daily life effectively and meet all commitments consistently.",
+    "size": 28,
+    "reviews": 8765,
+    "ratingAvg": 4.4,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 175
+      },
+      {
+        "name": "3 star",
+        "count": 421
+      },
+      {
+        "name": "4 star",
+        "count": 1721
+      },
+      {
+        "name": "5 star",
+        "count": 5836
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "ShopEasy: Smart Shopping List",
+    "companyName": "EasyApps",
+    "id": 19,
+    "description": "ShopEasy: Smart Shopping List is an intuitive shopping app that helps users plan, organize, and optimize purchases. Users can create multiple lists, categorize items, and set reminders to ensure nothing is forgotten. The app offers price tracking, notifications for discounts, and smart suggestions to save money. Collaborative features allow sharing lists with family or friends, streamlining group shopping. Historical data and analytics help monitor spending habits and improve budget management. Secure storage protects personal information and preferences. Suitable for individuals, families, and students, ShopEasy combines convenience, organization, and financial awareness. Its user-friendly interface, actionable insights, and interactive tools make shopping efficient and enjoyable. By organizing purchases, tracking expenses, and optimizing shopping routines, ShopEasy ensures users save time, reduce stress, and maintain better control over their spending habits daily.",
+    "size": 26,
+    "reviews": 6521,
+    "ratingAvg": 4.3,
+    "downloads": 945123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 215
+      },
+      {
+        "name": "2 star",
+        "count": 142
+      },
+      {
+        "name": "3 star",
+        "count": 321
+      },
+      {
+        "name": "4 star",
+        "count": 1221
+      },
+      {
+        "name": "5 star",
+        "count": 4622
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "FitTrack: Health & Fitness",
+    "companyName": "FitSoft",
+    "id": 20,
+    "description": "FitTrack: Health & Fitness is a comprehensive wellness app designed to monitor workouts, nutrition, and overall health. Users can track exercises, create customized workout plans, and set fitness goals with detailed analytics to monitor progress. Nutrition tracking helps users maintain balanced diets and healthy habits. Integration with wearable devices allows monitoring of activity, sleep, and hydration. Social features, challenges, and achievements motivate users and foster accountability. Secure storage ensures privacy of personal health data. Suitable for beginners and advanced fitness enthusiasts, FitTrack provides an intuitive interface, educational resources, and actionable insights. By combining health tracking, goal setting, and motivational tools, FitTrack empowers users to improve physical well-being, maintain consistency, and achieve fitness objectives efficiently while promoting sustainable, healthy lifestyles for long-term wellness.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "TuneWave: Music Player & Playlist",
+    "companyName": "SoundSoft",
+    "id": 21,
+    "description": "TuneWave: Music Player & Playlist is a versatile audio app providing a rich music experience. Users can create playlists, discover trending tracks, and enjoy high-quality streaming. Personalized recommendations adapt to listening habits, while offline downloads allow uninterrupted access. Social integration enables sharing playlists and favorite tracks with friends. Advanced equalizer settings and theme customization improve user engagement. Notifications alert users to new releases, curated playlists, and live events. Security features protect personal data and preferences. Suitable for casual listeners and audiophiles, TuneWave offers an intuitive interface, search functionality, and discovery tools. By combining entertainment, customization, and social sharing, the app enhances music enjoyment, discovery, and interaction, creating a personalized and immersive listening experience for users worldwide.",
+    "size": 27,
+    "reviews": 8421,
+    "ratingAvg": 4.6,
+    "downloads": 1542310,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 421
+      },
+      {
+        "name": "2 star",
+        "count": 253
+      },
+      {
+        "name": "3 star",
+        "count": 842
+      },
+      {
+        "name": "4 star",
+        "count": 2145
+      },
+      {
+        "name": "5 star",
+        "count": 4659
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "ReadEase: eBook Library & Reader",
+    "companyName": "BookSoft",
+    "id": 22,
+    "description": "ReadEase: eBook Library & Reader is an advanced reading app offering access to a vast digital library. Users can customize fonts, themes, and brightness for a comfortable reading experience. Features include bookmarks, notes, highlights, and synchronization across devices. Advanced search and categorization make discovering books simple. Social tools allow sharing notes and reading lists with friends or study groups. Offline reading, cloud backup, and secure storage ensure convenience and privacy. Suitable for casual readers, students, and professionals, ReadEase promotes learning, knowledge acquisition, and reading engagement. With a user-friendly interface, personalized recommendations, and interactive features, users can explore books efficiently, track progress, and enjoy an organized, immersive reading experience tailored to their preferences and lifestyle.",
+    "size": 32,
+    "reviews": 9654,
+    "ratingAvg": 4.5,
+    "downloads": 1324512,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 482
+      },
+      {
+        "name": "2 star",
+        "count": 196
+      },
+      {
+        "name": "3 star",
+        "count": 874
+      },
+      {
+        "name": "4 star",
+        "count": 2654
+      },
+      {
+        "name": "5 star",
+        "count": 3648
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "GameHub: Mobile Gaming Platform",
+    "companyName": "NextGen",
+    "id": 23,
+    "description": "GameHub: Mobile Gaming Platform is an interactive app that allows users to discover, play, and share mobile games seamlessly. Users can browse curated games, track achievements, and compete in multiplayer modes with friends. Personalized recommendations help discover new titles based on preferences. Social features include in-app chat, tournaments, and community forums. Parental controls and security measures ensure safe gaming. Offline support and cloud save functionality provide convenience across devices. Suitable for casual and competitive gamers, GameHub offers an intuitive interface, smooth performance, and analytics to track progress. By combining discovery, engagement, and collaboration, GameHub enhances the gaming experience, promotes interaction, and keeps users entertained with a vast variety of mobile games in a connected community.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "SnapShot: Photo Editor & Filters",
+    "companyName": "BrightApps",
+    "id": 24,
+    "description": "SnapShot: Photo Editor & Filters is a professional photo editing app that allows users to enhance, customize, and transform images creatively. Users can apply filters, adjust colors, remove blemishes, add text and stickers, and create collages. Batch editing and real-time previews improve workflow. Tutorials and templates guide beginners, while advanced tools satisfy professionals. Cloud backup and secure storage protect user data. Social sharing features enable posting to platforms easily. SnapShot is suitable for photographers, content creators, and social media enthusiasts. With powerful editing tools, an intuitive interface, and creative features, SnapShot empowers users to produce high-quality images, explore artistic expression, and share content efficiently, making photo editing enjoyable and accessible for all skill levels.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "WeatherWise: Forecast & Alerts",
+    "companyName": "TechNova",
+    "id": 25,
+    "description": "WeatherWise: Forecast & Alerts is a reliable weather app offering real-time updates, forecasts, and severe weather alerts. Users can view hourly, daily, and weekly weather conditions including temperature, humidity, wind speed, and precipitation. Interactive maps, graphs, and radar provide visual insights. Notifications alert users to extreme weather, rainfall, or changing conditions. Customizable widgets offer quick access to weather updates. Data privacy is ensured through secure handling of location information. Suitable for commuters, travelers, and outdoor enthusiasts, WeatherWise combines an intuitive interface, accurate forecasts, and actionable alerts. By providing detailed weather information and timely notifications, WeatherWise empowers users to plan effectively, stay safe, and enjoy outdoor activities confidently regardless of unpredictable weather patterns.",
+    "size": 28,
+    "reviews": 9321,
+    "ratingAvg": 4.4,
+    "downloads": 1432567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "TravelMate: Trip Planner & Guide",
+    "companyName": "SmartApps",
+    "id": 26,
+    "description": "TravelMate: Trip Planner & Guide is a comprehensive travel app designed to simplify planning, exploration, and organization for travelers. Users can create detailed itineraries, discover attractions, book accommodations, and track travel documents. Offline maps, personalized recommendations, and notifications help users navigate new destinations efficiently. Collaborative features allow sharing travel plans with family or friends. Budget tracking, reminders, and progress summaries ensure smooth trips. TravelMate protects sensitive data like personal documents and payment information. Ideal for solo travelers, families, and groups, the app offers an intuitive interface, interactive guides, and analytics for travel habits. By integrating planning, discovery, and organization, TravelMate enhances travel efficiency, reduces stress, and ensures memorable experiences worldwide.",
+    "size": 33,
+    "reviews": 8321,
+    "ratingAvg": 4.5,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2132
+      },
+      {
+        "name": "5 star",
+        "count": 6158
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "NutriTrack: Diet & Nutrition",
+    "companyName": "FitSoft",
+    "id": 27,
+    "description": "NutriTrack: Diet & Nutrition is a wellness app helping users monitor daily food intake, track calories, and manage nutrients for a healthy lifestyle. Users can plan meals, receive personalized diet suggestions, and analyze nutrient intake. Integration with fitness trackers allows monitoring of activity, sleep, and hydration. Recipes, grocery lists, and reminders support consistent healthy habits. Secure storage protects sensitive data. Suitable for individuals aiming for weight management, athletes, or health-conscious users, NutriTrack provides a user-friendly interface, motivational tips, and educational resources. By combining nutrition tracking, goal setting, and analytics, NutriTrack empowers users to make informed dietary choices, improve health, and achieve fitness objectives consistently, promoting long-term wellness and sustainable habits.",
+    "size": 31,
+    "reviews": 9234,
+    "ratingAvg": 4.6,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 513
+      },
+      {
+        "name": "4 star",
+        "count": 2132
+      },
+      {
+        "name": "5 star",
+        "count": 6070
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "MarketBuddy: Smart Shopping Deals",
+    "companyName": "EasyApps",
+    "id": 28,
+    "description": "MarketBuddy: Smart Shopping Deals helps users find discounts, track prices, and make informed purchase decisions. Users can create and manage shopping lists, receive alerts for sales or promotions, and compare product prices. Collaborative list sharing allows coordination with family or friends. The app provides analytics on spending habits, recommendations for cost-saving, and coupon management. Secure storage and encrypted transactions ensure privacy. Ideal for budget-conscious shoppers and families, MarketBuddy combines convenience, insights, and savings-focused tools to improve shopping efficiency. Users can plan purchases effectively, reduce expenses, and enjoy a stress-free shopping experience. The intuitive interface and smart notifications enhance usability, making MarketBuddy a must-have companion for smart consumer habits and optimized spending.",
+    "size": 29,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "BeatFlow: Streaming & Playlists",
+    "companyName": "SoundSoft",
+    "id": 29,
+    "description": "BeatFlow: Streaming & Playlists is a comprehensive music streaming app providing access to millions of tracks across genres. Users can create playlists, follow artists, and enjoy personalized recommendations based on listening history. Offline downloads, cross-device syncing, and equalizer customization enhance the experience. Notifications keep users updated on new releases and live events. Social sharing, collaborative playlists, and community engagement enrich interactions. The app ensures secure storage and protects user preferences. BeatFlow is suitable for casual listeners, music enthusiasts, and DJs, offering an intuitive interface and discovery features. By combining streaming, personalization, and social engagement, BeatFlow provides a complete music entertainment platform, enabling users to explore, enjoy, and share music seamlessly.",
+    "size": 32,
+    "reviews": 9423,
+    "ratingAvg": 4.6,
+    "downloads": 1547890,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "PlanIt: Event Organizer Pro",
+    "companyName": "TimeSoft",
+    "id": 30,
+    "description": "PlanIt: Event Organizer Pro is an advanced event management app designed for individuals and teams to plan, coordinate, and track events efficiently. Users can schedule meetings, manage agendas, set reminders, and categorize tasks by priority. The app supports collaborative planning with invitations, RSVPs, and shared schedules. Analytics provide insights into productivity and event completion rates. Integration with other calendar services ensures seamless synchronization. Security features protect sensitive information. PlanIt Pro is ideal for professionals, students, and families seeking organized and stress-free event management. Its intuitive interface, customizable themes, and comprehensive reporting enhance planning efficiency. By combining planning, analytics, and collaboration, PlanIt Pro helps users stay organized, meet deadlines, and ensure successful events while improving productivity and minimizing missed tasks.",
+    "size": 34,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "MoveFit: Home Workout Trainer",
+    "companyName": "FitSoft",
+    "id": 31,
+    "description": "MoveFit: Home Workout Trainer is a fitness app that offers personalized workout routines for all levels. Users can follow video-guided exercises, create customized plans, and track progress over time. Integration with wearable devices allows monitoring of heart rate, calories burned, and activity levels. The app provides reminders, motivational messages, and progress analytics to keep users engaged. Social challenges and leaderboard features encourage friendly competition. Secure data storage protects personal information. MoveFit is suitable for beginners, fitness enthusiasts, and professionals aiming for home-based training. Combining structured workouts, goal tracking, and community engagement, MoveFit empowers users to stay active, improve physical fitness, and maintain a healthy lifestyle with convenience, flexibility, and motivation.",
+    "size": 33,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/flight.png",
+    "title": "AirPlan: Flight Tracker & Alerts",
+    "companyName": "TravelSoft",
+    "id": 32,
+    "description": "AirPlan: Flight Tracker & Alerts is a travel app that helps users monitor flight schedules, track departures, and receive timely notifications for delays or gate changes. Users can add trips, view airline details, and get real-time updates on flight status. Offline access, interactive maps, and reminders enhance travel planning. Collaborative features allow sharing flight details with family or colleagues. Data privacy and security measures protect personal information. Suitable for frequent travelers, business professionals, and tourists, AirPlan combines intuitive design, accurate tracking, and actionable alerts. By providing seamless flight monitoring, AirPlan reduces travel stress, ensures punctuality, and improves the overall travel experience.",
+    "size": 29,
+    "reviews": 8321,
+    "ratingAvg": 4.5,
+    "downloads": 1023456,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6302
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "Rhythmix: DJ Music Mixer",
+    "companyName": "SoundSoft",
+    "id": 33,
+    "description": "Rhythmix: DJ Music Mixer is a professional music mixing app that enables users to create, edit, and share tracks seamlessly. Users can mix multiple songs, apply effects, adjust tempos, and record sessions. Tutorials and pre-set templates help beginners, while advanced tools cater to professionals. Social sharing allows showcasing mixes and collaborating with other DJs. Offline support and secure data storage ensure convenience. Rhythmix is suitable for music enthusiasts, DJs, and content creators. Combining powerful tools, intuitive interface, and creative features, Rhythmix empowers users to produce high-quality music, explore creativity, and enjoy an engaging mixing experience.",
+    "size": 36,
+    "reviews": 9123,
+    "ratingAvg": 4.7,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8989
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "LearnHub: Online Courses & Tutorials",
+    "companyName": "EduSoft",
+    "id": 34,
+    "description": "LearnHub: Online Courses & Tutorials is an educational app providing access to thousands of courses across subjects. Users can enroll in courses, watch video lessons, complete quizzes, and track learning progress. Collaborative features enable discussions, group study, and knowledge sharing. Offline access allows learning anywhere, and personalized recommendations help discover relevant content. Secure storage protects user data and progress. Suitable for students, professionals, and lifelong learners, LearnHub offers an intuitive interface, interactive tools, and analytics for monitoring performance. By combining content, collaboration, and tracking, LearnHub enhances learning efficiency, knowledge retention, and skill development.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "ClimaCheck: Weather Forecast Pro",
+    "companyName": "TechNova",
+    "id": 35,
+    "description": "ClimaCheck: Weather Forecast Pro is an advanced weather app providing accurate, real-time updates and forecasts. Users can view hourly, daily, and weekly weather details, including temperature, humidity, wind speed, and precipitation. Interactive radar maps, graphs, and notifications help users prepare for changing conditions. Custom widgets provide quick weather insights. Security measures protect user location data. Suitable for commuters, travelers, and outdoor enthusiasts, ClimaCheck ensures users make informed decisions, plan activities effectively, and stay safe during extreme weather. By combining accuracy, visual insights, and alerts, the app enhances convenience, safety, and preparedness.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "GlobeTrek: Adventure Planner",
+    "companyName": "TravelSoft",
+    "id": 36,
+    "description": "GlobeTrek: Adventure Planner is a travel-focused app that allows users to organize trips, track itineraries, and discover new destinations. Users can add accommodations, activities, and transport details, set reminders, and share plans with friends or family. Offline maps, notifications, and suggested routes optimize travel experiences. Budget tracking and trip analytics help manage expenses and evaluate travel efficiency. Secure storage ensures personal data protection. Ideal for solo travelers, families, and explorers, GlobeTrek provides an intuitive interface, interactive guides, and personalized recommendations. By integrating planning, discovery, and collaboration, GlobeTrek ensures smooth, enjoyable, and memorable travel experiences while improving organization and travel efficiency.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "CoreFit: Personalized Fitness App",
+    "companyName": "FitSoft",
+    "id": 37,
+    "description": "CoreFit: Personalized Fitness App is designed to help users achieve their fitness goals with customized workout plans. Users can track exercises, set goals, monitor progress, and access video-guided routines. Nutrition tracking, hydration reminders, and wearable integration provide holistic health monitoring. Social challenges, achievement badges, and motivational notifications keep users engaged. Secure storage ensures personal health data protection. Suitable for beginners, fitness enthusiasts, and professionals, CoreFit offers an intuitive interface, progress analytics, and flexible workout options. Combining structured workouts, goal tracking, and community features, CoreFit empowers users to maintain a healthy lifestyle, improve physical fitness, and stay motivated consistently.",
+    "size": 32,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "SoundWave: Music Streaming & Radio",
+    "companyName": "SoundSoft",
+    "id": 38,
+    "description": "SoundWave: Music Streaming & Radio offers a complete audio entertainment experience, allowing users to stream music, listen to curated radio stations, and create playlists. Personalized recommendations adapt to listening habits, while offline downloads provide uninterrupted access. Users can follow artists, share tracks, and explore genres. Social sharing and collaborative playlists enhance engagement. The app ensures secure storage of user data and preferences. Suitable for music lovers and casual listeners, SoundWave provides an intuitive interface, discovery tools, and high-quality audio. Combining streaming, personalization, and social features, SoundWave creates an immersive and engaging listening experience for all users.",
+    "size": 30,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "Eventify: Planner & Scheduler",
+    "companyName": "TimeSoft",
+    "id": 39,
+    "description": "Eventify: Planner & Scheduler is a comprehensive app for managing personal and professional events. Users can create schedules, set reminders, organize agendas, and categorize tasks by priority. Collaborative features allow inviting participants, sharing schedules, and tracking RSVPs. Analytics provide insights into time management and productivity. Integration with other calendars ensures seamless planning. Security features protect event data. Suitable for professionals, students, and families, Eventify offers an intuitive interface, customization options, and detailed reporting. By combining planning, collaboration, and analytics, Eventify helps users stay organized, meet deadlines, and ensure successful events while enhancing productivity and reducing stress.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "WellnessTrack: Health & Nutrition",
+    "companyName": "FitSoft",
+    "id": 40,
+    "description": "WellnessTrack: Health & Nutrition is a holistic health app that allows users to track workouts, diet, hydration, and sleep patterns. Users can create personalized fitness and nutrition plans, set goals, and monitor progress through analytics. Motivational alerts, achievement badges, and community challenges encourage consistent engagement. Integration with wearable devices provides real-time monitoring. Secure storage ensures privacy of sensitive health data. Suitable for fitness enthusiasts, health-conscious individuals, and beginners, WellnessTrack offers an intuitive interface, interactive guides, and actionable insights. By combining health tracking, nutrition management, and analytics, WellnessTrack empowers users to improve overall well-being, maintain healthy habits, and achieve personal wellness goals effectively.",
+    "size": 31,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "DealFinder: Smart Shopping Assistant",
+    "companyName": "EasyApps",
+    "id": 41,
+    "description": "DealFinder: Smart Shopping Assistant helps users discover deals, track prices, and optimize shopping habits. Users can create lists, receive notifications for discounts, compare products, and manage coupons. Collaborative features allow sharing lists with friends and family. Analytics provide insights into spending patterns and cost-saving strategies. Secure storage ensures privacy of personal and financial data. Ideal for budget-conscious shoppers, DealFinder combines convenience, insights, and savings tools to make shopping efficient and enjoyable. Users can plan purchases, reduce expenses, and track spending. Its intuitive interface and smart alerts make shopping organized, informed, and cost-effective.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "PlayHub: Mobile Gaming Center",
+    "companyName": "NextGen",
+    "id": 42,
+    "description": "PlayHub: Mobile Gaming Center is a platform that provides access to a variety of mobile games, tournaments, and multiplayer competitions. Users can browse games, track achievements, and connect with friends. Personalized recommendations help discover new games. Social features, leaderboards, and challenges foster engagement and friendly competition. Secure storage ensures safety of account data and achievements. Suitable for casual gamers and enthusiasts, PlayHub offers an intuitive interface, seamless gameplay, and community features. By combining discovery, engagement, and competition, PlayHub creates an immersive gaming experience, encouraging social interaction and skill improvement.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "PhotoMagic: Editor & Collage Maker",
+    "companyName": "BrightApps",
+    "id": 43,
+    "description": "PhotoMagic: Editor & Collage Maker is a versatile photo editing app allowing users to enhance, customize, and share images. Users can apply filters, adjust colors, add text or stickers, and create collages. Batch editing, templates, and tutorials help beginners and professionals alike. Secure cloud backup protects user files. Social sharing features enable posting creations to popular platforms. Suitable for photographers, content creators, and hobbyists, PhotoMagic provides an intuitive interface, creative tools, and organizational features. By combining editing, customization, and collaboration, PhotoMagic allows users to produce high-quality images and enjoy creative expression seamlessly.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "StormAlert: Severe Weather Tracker",
+    "companyName": "TechNova",
+    "id": 44,
+    "description": "StormAlert: Severe Weather Tracker is a weather-focused app providing real-time alerts, forecasts, and safety notifications for extreme weather events. Users can view hourly and daily weather details, including temperature, wind speed, humidity, and precipitation. Interactive radar maps, graphs, and customizable notifications help users prepare for storms, floods, or other events. Secure handling of location data ensures privacy. Suitable for commuters, travelers, and outdoor enthusiasts, StormAlert offers an intuitive interface, accurate alerts, and actionable insights. By combining real-time updates, visualization, and notifications, StormAlert enhances safety, planning, and awareness during severe weather conditions.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "EduLearn: Courses & Learning Hub",
+    "companyName": "EduSoft",
+    "id": 45,
+    "description": "EduLearn: Courses & Learning Hub is an educational app providing access to thousands of courses, tutorials, and learning materials. Users can track progress, complete quizzes, take notes, and receive recommendations based on interests. Collaborative features enable discussions, group projects, and study sessions. Offline access, secure storage, and progress syncing across devices ensure a seamless experience. Suitable for students, professionals, and lifelong learners, EduLearn provides an intuitive interface, interactive tools, and analytics to monitor performance. By combining content, collaboration, and tracking, EduLearn enhances knowledge acquisition, skill development, and educational engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "TripMaster: Travel Planner & Guide",
+    "companyName": "SmartApps",
+    "id": 46,
+    "description": "TripMaster: Travel Planner & Guide helps users organize trips, track itineraries, and discover attractions effortlessly. Users can add flights, hotels, activities, and transport details, set reminders, and share plans with friends or family. Offline maps, route suggestions, and notifications optimize travel experiences. Budget tracking and trip analytics assist with expense management and efficient planning. Data security ensures personal information remains protected. Ideal for solo travelers, families, and explorers, TripMaster offers an intuitive interface, interactive guides, and personalized recommendations. By integrating planning, discovery, and collaboration, TripMaster ensures smooth, enjoyable, and memorable trips while improving organization, saving time, and reducing travel stress.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "FitTrack: Home Workout & Wellness",
+    "companyName": "FitSoft",
+    "id": 47,
+    "description": "FitTrack: Home Workout & Wellness provides personalized workouts, nutrition tracking, and wellness guidance for users of all levels. Users can follow video-guided exercises, track calories, monitor hydration, and measure sleep quality. Social challenges and leaderboards encourage engagement. Integration with wearable devices allows real-time monitoring of heart rate, calories burned, and fitness progress. Secure data storage protects personal health information. Suitable for beginners, fitness enthusiasts, and professionals, FitTrack offers an intuitive interface, progress analytics, and flexible workout plans. By combining fitness routines, nutrition management, and motivation tools, FitTrack empowers users to improve health, maintain consistency, and achieve wellness goals effectively.",
+    "size": 33,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "MelodyStream: Music & Podcasts",
+    "companyName": "SoundSoft",
+    "id": 48,
+    "description": "MelodyStream: Music & Podcasts allows users to access millions of tracks and podcasts across genres. Users can create playlists, download for offline use, follow artists, and explore curated recommendations. Social features enable playlist sharing, collaborations, and community engagement. High-quality audio, equalizer settings, and offline access enhance the listening experience. Secure data storage protects user preferences. Suitable for casual listeners, music enthusiasts, and content creators, MelodyStream combines streaming, personalization, and community features to deliver an immersive audio experience. By integrating music discovery, podcast exploration, and social sharing, MelodyStream offers users entertainment, engagement, and inspiration anytime, anywhere.",
+    "size": 31,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "SchedulePro: Event Manager",
+    "companyName": "TimeSoft",
+    "id": 49,
+    "description": "SchedulePro: Event Manager provides tools to manage personal and professional events efficiently. Users can create schedules, set reminders, organize agendas, and categorize tasks by priority. Collaborative features include invitations, RSVPs, and shared calendars. Analytics help monitor time management and productivity. Integration with external calendars ensures synchronization. Security features protect event data. Suitable for professionals, students, and families, SchedulePro offers an intuitive interface, customizable themes, and detailed reporting. By combining planning, collaboration, and analytics, SchedulePro enhances organization, ensures timely task completion, and improves overall event management efficiency.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "HealthMonitor: Diet & Fitness",
+    "companyName": "FitSoft",
+    "id": 50,
+    "description": "HealthMonitor: Diet & Fitness helps users track workouts, meals, hydration, and sleep patterns for optimal health. Users can set goals, follow personalized plans, and monitor progress with analytics. Motivational reminders, achievement badges, and community challenges encourage consistency. Integration with wearables provides real-time health tracking. Secure storage ensures privacy of sensitive information. Suitable for beginners, fitness enthusiasts, and professionals, HealthMonitor combines exercise routines, nutrition management, and wellness tracking. By using HealthMonitor, users can maintain a healthy lifestyle, achieve fitness goals, and monitor progress effectively, promoting long-term well-being.",
+    "size": 32,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "SmartShop: Deals & Savings",
+    "companyName": "EasyApps",
+    "id": 51,
+    "description": "SmartShop: Deals & Savings helps users find discounts, track prices, and optimize shopping strategies. Users can create lists, receive alerts for deals, compare products, and manage coupons. Collaborative features allow list sharing with friends and family. Analytics provide insights into spending and cost-saving habits. Secure storage protects financial data. Ideal for budget-conscious shoppers, SmartShop enhances shopping efficiency, helps plan purchases, and reduces expenses. With an intuitive interface and smart notifications, users enjoy organized and cost-effective shopping experiences.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "GameHub: Mobile Gaming Portal",
+    "companyName": "NextGen",
+    "id": 52,
+    "description": "GameHub: Mobile Gaming Portal offers a variety of games, tournaments, and multiplayer competitions. Users can browse games, track achievements, and connect with friends. Personalized recommendations help discover new titles. Social features, leaderboards, and challenges enhance engagement. Secure storage protects account data and achievements. Suitable for casual and competitive gamers, GameHub provides an intuitive interface, seamless gameplay, and community engagement. Combining discovery, social interaction, and competition, GameHub delivers an immersive gaming experience, fostering skill development, fun, and social connection.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "SnapEdit: Photo Editor & Collage",
+    "companyName": "BrightApps",
+    "id": 53,
+    "description": "SnapEdit: Photo Editor & Collage allows users to enhance, customize, and share photos. Users can apply filters, adjust brightness and contrast, add text or stickers, and create collages. Batch editing, templates, and tutorials help beginners and professionals. Secure cloud storage ensures safety of user files. Social sharing enables posting to platforms. Suitable for photographers, content creators, and hobbyists, SnapEdit combines editing, creativity, and organization, allowing high-quality image creation and expression.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "WeatherPro: Accurate Forecasts",
+    "companyName": "TechNova",
+    "id": 54,
+    "description": "WeatherPro: Accurate Forecasts delivers real-time weather updates, hourly and weekly forecasts, and notifications for severe conditions. Users can view temperature, humidity, wind speed, and precipitation details. Interactive radar maps, graphs, and customizable alerts aid planning. Secure handling of location data ensures privacy. Suitable for travelers, commuters, and outdoor enthusiasts, WeatherPro combines accurate information, intuitive design, and actionable alerts to improve planning, safety, and preparedness.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "KnowledgeHub: Learning & Courses",
+    "companyName": "EduSoft",
+    "id": 55,
+    "description": "KnowledgeHub: Learning & Courses offers thousands of educational resources, including video lessons, tutorials, and quizzes. Users can track progress, complete assignments, and receive recommendations based on learning preferences. Collaborative features enable discussions and group study. Offline access, secure storage, and synchronization across devices ensure seamless learning. Suitable for students, professionals, and lifelong learners, KnowledgeHub combines interactive tools, analytics, and content discovery to enhance knowledge acquisition, skill development, and educational engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "Wanderlust: Trip Organizer",
+    "companyName": "TravelSoft",
+    "id": 56,
+    "description": "Wanderlust: Trip Organizer is a travel app that helps users plan trips, track itineraries, and explore destinations. Users can add flights, accommodations, and activities, set reminders, and share plans with friends or family. Offline maps, suggested routes, and notifications improve travel efficiency. Budget tracking and analytics assist in managing expenses and time. Secure storage protects personal information. Ideal for solo travelers, families, and explorers, Wanderlust provides an intuitive interface, interactive guides, and personalized recommendations. By integrating planning, discovery, and collaboration, Wanderlust ensures smooth and memorable travel experiences while improving organization and reducing stress.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "ActiveLife: Home Fitness Coach",
+    "companyName": "FitSoft",
+    "id": 57,
+    "description": "ActiveLife: Home Fitness Coach provides personalized workout plans, nutrition tracking, and wellness guidance for users of all levels. Users can follow guided video exercises, monitor calories, hydration, and sleep, and track fitness progress. Community challenges, leaderboards, and motivational reminders encourage engagement. Wearable integration allows real-time tracking of health metrics. Secure storage ensures privacy of sensitive data. Suitable for beginners, fitness enthusiasts, and professionals, ActiveLife offers an intuitive interface, analytics, and customizable plans. By combining workouts, nutrition, and tracking, ActiveLife empowers users to achieve health goals, maintain consistency, and improve overall well-being effectively.",
+    "size": 33,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "TuneStream: Music & Radio",
+    "companyName": "SoundSoft",
+    "id": 58,
+    "description": "TuneStream: Music & Radio offers a rich audio experience with millions of tracks, podcasts, and live radio stations. Users can create playlists, download songs offline, follow favorite artists, and receive personalized recommendations. Social sharing and collaborative playlists enhance engagement. High-quality audio, equalizer customization, and offline access ensure uninterrupted listening. Secure storage protects user preferences. Suitable for casual listeners and audiophiles, TuneStream combines streaming, personalization, and community interaction to deliver an immersive experience. By integrating music discovery, radio streaming, and social features, TuneStream ensures entertainment, engagement, and inspiration anytime.",
+    "size": 31,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "PlanEase: Event Scheduler",
+    "companyName": "TimeSoft",
+    "id": 59,
+    "description": "PlanEase: Event Scheduler is a versatile app for managing personal and professional events. Users can create schedules, set reminders, organize tasks, and prioritize agendas. Collaborative tools enable sharing with participants, managing RSVPs, and syncing calendars. Analytics provide insights on productivity and time management. Integration with other calendar apps ensures synchronization. Security measures protect sensitive event information. Suitable for professionals, students, and families, PlanEase provides an intuitive interface, customizable layouts, and detailed reporting. By combining planning, collaboration, and tracking, PlanEase enhances efficiency, helps meet deadlines, and ensures successful events.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "WellTrack: Diet & Wellness",
+    "companyName": "FitSoft",
+    "id": 60,
+    "description": "WellTrack: Diet & Wellness helps users maintain healthy lifestyles through personalized nutrition, exercise, and wellness tracking. Users can log meals, monitor workouts, track sleep, and manage hydration. Analytics provide insights into progress, while achievement badges and community challenges keep users motivated. Integration with wearable devices allows real-time monitoring of vital metrics. Secure storage ensures privacy. Suitable for beginners, fitness enthusiasts, and professionals, WellTrack combines diet tracking, fitness monitoring, and wellness management to empower users to achieve health goals, improve habits, and maintain overall well-being.",
+    "size": 32,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "DealSmart: Price Tracker & Coupons",
+    "companyName": "EasyApps",
+    "id": 61,
+    "description": "DealSmart: Price Tracker & Coupons helps users find the best deals, monitor prices, and save money while shopping. Users can create shopping lists, get notifications on discounts, compare products, and manage coupons. Collaborative list sharing allows friends and family to coordinate purchases. Analytics provide spending insights and cost-saving tips. Secure storage protects financial data. Ideal for budget-conscious shoppers, DealSmart combines convenience, efficiency, and smart alerts to improve shopping experiences. With an intuitive interface, users can plan purchases, reduce expenses, and make informed decisions.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "PlayZone: Mobile Gaming Hub",
+    "companyName": "NextGen",
+    "id": 62,
+    "description": "PlayZone: Mobile Gaming Hub provides access to a variety of mobile games, multiplayer competitions, and tournaments. Users can browse games, track achievements, connect with friends, and receive recommendations. Social features, leaderboards, and challenges enhance engagement. Secure storage protects user accounts and progress. Suitable for casual and competitive gamers, PlayZone offers an intuitive interface, seamless gameplay, and community interaction. By combining discovery, social features, and competition, PlayZone delivers immersive entertainment, social engagement, and skill development.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "PicMaster: Photo Editor & Collage",
+    "companyName": "BrightApps",
+    "id": 63,
+    "description": "PicMaster: Photo Editor & Collage provides advanced editing tools to enhance, customize, and share photos. Users can apply filters, adjust colors, add text or stickers, and create collages. Batch editing, templates, and tutorials cater to both beginners and professionals. Secure cloud storage ensures safety of user files. Social sharing enables sharing creations on popular platforms. Suitable for photographers, content creators, and hobbyists, PicMaster combines creativity, customization, and organization for high-quality photo production and self-expression.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "WeatherWatch: Real-Time Forecast",
+    "companyName": "TechNova",
+    "id": 64,
+    "description": "WeatherWatch: Real-Time Forecast provides accurate weather updates, hourly and weekly forecasts, and severe weather notifications. Users can view temperature, precipitation, wind speed, and humidity details. Interactive radar maps, graphs, and customizable alerts help plan activities. Secure handling of location data ensures privacy. Suitable for travelers, commuters, and outdoor enthusiasts, WeatherWatch combines accuracy, visualization, and notifications to enhance planning, preparedness, and safety during changing weather conditions.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "SkillUp: Courses & Learning",
+    "companyName": "EduSoft",
+    "id": 65,
+    "description": "SkillUp: Courses & Learning provides access to thousands of online courses, tutorials, and quizzes. Users can track progress, complete assignments, take notes, and get personalized recommendations. Collaborative features enable discussions, group projects, and study sessions. Offline access and secure data storage ensure a seamless learning experience. Suitable for students, professionals, and lifelong learners, SkillUp combines interactive tools, analytics, and content discovery to improve knowledge acquisition, skill development, and educational engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "AdventureWay: Travel Planner",
+    "companyName": "TravelSoft",
+    "id": 66,
+    "description": "AdventureWay: Travel Planner helps users organize trips, track itineraries, and explore destinations efficiently. Users can add flights, hotels, activities, and transportation details, set reminders, and share plans with friends or family. Offline maps, suggested routes, and notifications enhance travel convenience. Budget tracking and analytics assist with expense management. Secure storage ensures privacy. Suitable for solo travelers, families, and adventurers, AdventureWay provides an intuitive interface, interactive guides, and personalized recommendations. By integrating planning, exploration, and collaboration, AdventureWay ensures smooth, enjoyable, and memorable travel experiences while improving organization and reducing stress.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "FitGoal: Workout & Wellness",
+    "companyName": "FitSoft",
+    "id": 67,
+    "description": "FitGoal: Workout & Wellness provides personalized fitness plans, nutrition tracking, and wellness guidance. Users can follow guided exercises, monitor calories, sleep, and hydration, and track progress. Community challenges, leaderboards, and motivational notifications keep users engaged. Wearable integration allows real-time health monitoring. Secure data storage protects personal information. Suitable for beginners, fitness enthusiasts, and professionals, FitGoal offers an intuitive interface, progress analytics, and customizable workout plans. By combining fitness routines, nutrition, and wellness monitoring, FitGoal empowers users to achieve health goals, improve habits, and maintain overall well-being effectively.",
+    "size": 33,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "BeatFlow: Music & Podcasts",
+    "companyName": "SoundSoft",
+    "id": 68,
+    "description": "BeatFlow: Music & Podcasts provides access to millions of songs, podcasts, and radio stations. Users can create playlists, download for offline listening, follow favorite artists, and receive personalized recommendations. Collaborative playlists and social sharing enhance engagement. High-quality audio, equalizer settings, and offline access ensure uninterrupted enjoyment. Secure storage protects user preferences. Suitable for casual listeners and audiophiles, BeatFlow combines music streaming, podcast discovery, and social features to deliver a rich and immersive audio experience, allowing users to enjoy entertainment and inspiration anytime.",
+    "size": 31,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "AgendaPro: Scheduler & Planner",
+    "companyName": "TimeSoft",
+    "id": 69,
+    "description": "AgendaPro: Scheduler & Planner is a comprehensive app to manage events, appointments, and personal tasks. Users can set reminders, organize schedules, prioritize tasks, and share calendars with others. Collaborative features include invitations, RSVP tracking, and notifications. Analytics provide insights into productivity and time management. Integration with external calendars ensures synchronization. Security measures protect event data. Suitable for professionals, students, and families, AgendaPro offers an intuitive interface, customizable layouts, and detailed reporting. By combining planning, collaboration, and tracking, AgendaPro improves efficiency, helps meet deadlines, and ensures successful event management.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "HealthPlus: Diet & Exercise Tracker",
+    "companyName": "FitSoft",
+    "id": 70,
+    "description": "HealthPlus: Diet & Exercise Tracker helps users manage nutrition, workouts, sleep, and hydration to achieve wellness goals. Users can log meals, track workouts, monitor sleep quality, and set reminders. Motivational badges and community challenges encourage consistency. Integration with wearable devices allows real-time health tracking. Secure storage ensures privacy. Suitable for beginners, fitness enthusiasts, and professionals, HealthPlus combines fitness tracking, nutrition management, and wellness monitoring to support healthier habits, consistent progress, and overall well-being.",
+    "size": 32,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "SaveSmart: Coupons & Deals",
+    "companyName": "EasyApps",
+    "id": 71,
+    "description": "SaveSmart: Coupons & Deals helps users find discounts, track prices, and save money while shopping. Users can create shopping lists, receive notifications on deals, compare products, and manage coupons efficiently. Collaborative list sharing allows coordination with friends and family. Analytics provide insights on spending and savings. Secure storage protects financial information. Ideal for budget-conscious shoppers, SaveSmart combines convenience, insights, and smart alerts to enhance shopping efficiency and cost-effectiveness.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "GameArena: Mobile Games & Tournaments",
+    "companyName": "NextGen",
+    "id": 72,
+    "description": "GameArena: Mobile Games & Tournaments offers a wide variety of mobile games, multiplayer competitions, and challenges. Users can browse games, track achievements, connect with friends, and receive personalized recommendations. Leaderboards, tournaments, and social features enhance engagement. Secure storage protects account data. Suitable for casual and competitive gamers, GameArena provides seamless gameplay, community interaction, and an immersive experience that encourages skill development, entertainment, and social engagement.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "PhotoLab: Editor & Collage Maker",
+    "companyName": "BrightApps",
+    "id": 73,
+    "description": "PhotoLab: Editor & Collage Maker offers powerful tools to enhance, customize, and share photos. Users can apply filters, adjust colors, add text, stickers, and create collages. Batch editing, templates, and tutorials support both beginners and professionals. Secure cloud storage ensures protection of files. Social sharing allows posting creations on multiple platforms. Suitable for photographers, content creators, and hobbyists, PhotoLab combines creative tools, customization, and organization to produce high-quality images and enable self-expression effectively.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "StormWatch: Weather Alerts",
+    "companyName": "TechNova",
+    "id": 74,
+    "description": "StormWatch: Weather Alerts provides real-time weather updates, forecasts, and notifications for severe conditions. Users can track temperature, wind speed, humidity, and precipitation. Interactive radar maps, graphs, and customizable alerts help users plan activities and stay safe. Secure handling of location data ensures privacy. Suitable for commuters, travelers, and outdoor enthusiasts, StormWatch combines accurate information, visualization, and notifications to enhance preparedness and safety during changing weather events.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "LearnPro: Courses & Tutorials",
+    "companyName": "EduSoft",
+    "id": 75,
+    "description": "LearnPro: Courses & Tutorials provides access to thousands of online courses, video lessons, and learning resources. Users can track progress, complete quizzes, take notes, and receive personalized recommendations. Collaborative features support discussions, group study, and projects. Offline access and secure storage ensure a smooth learning experience. Suitable for students, professionals, and lifelong learners, LearnPro combines interactive tools, analytics, and course management to enhance knowledge acquisition, skill development, and engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "GlobeTrek: Trip Planner",
+    "companyName": "TravelSoft",
+    "id": 76,
+    "description": "GlobeTrek: Trip Planner helps users plan trips, manage itineraries, and explore destinations efficiently. Users can add flights, hotels, activities, and transportation details, set reminders, and share plans with friends or family. Offline maps, suggested routes, and notifications improve travel convenience. Budget tracking and analytics assist in expense management. Secure storage ensures privacy. Suitable for solo travelers, families, and explorers, GlobeTrek provides an intuitive interface, interactive guides, and personalized recommendations. By integrating planning, discovery, and collaboration, GlobeTrek ensures smooth, enjoyable, and memorable travel experiences while improving organization and reducing stress.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "WellFit: Home Fitness Tracker",
+    "companyName": "FitSoft",
+    "id": 77,
+    "description": "WellFit: Home Fitness Tracker provides customized workout plans, nutrition tracking, and wellness guidance. Users can follow video-guided exercises, monitor calories, sleep, and hydration, and track progress. Community challenges, leaderboards, and motivational notifications encourage engagement. Integration with wearable devices allows real-time tracking of health metrics. Secure data storage protects personal information. Suitable for beginners, fitness enthusiasts, and professionals, WellFit combines fitness routines, nutrition, and wellness monitoring to empower users to achieve health goals, improve habits, and maintain overall well-being effectively.",
+    "size": 33,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "SoundWave: Music & Podcasts",
+    "companyName": "SoundSoft",
+    "id": 78,
+    "description": "SoundWave: Music & Podcasts offers millions of tracks, podcasts, and radio stations. Users can create playlists, download offline, follow favorite artists, and receive personalized recommendations. Social sharing and collaborative playlists enhance engagement. High-quality audio and equalizer settings ensure optimal listening. Secure storage protects user preferences. Suitable for casual listeners and audiophiles, SoundWave combines music streaming, podcast discovery, and social features to deliver a rich and immersive audio experience, keeping users entertained and inspired anytime.",
+    "size": 31,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "EventMaster: Schedule & Planner",
+    "companyName": "TimeSoft",
+    "id": 79,
+    "description": "EventMaster: Schedule & Planner helps users manage personal and professional events efficiently. Users can create schedules, set reminders, organize tasks, and prioritize agendas. Collaborative features include invitations, RSVPs, and shared calendars. Analytics provide insights into productivity and time management. Integration with other calendars ensures synchronization. Security features protect sensitive event information. Suitable for professionals, students, and families, EventMaster provides an intuitive interface, customizable layouts, and reporting. By combining planning, collaboration, and tracking, EventMaster improves efficiency, helps meet deadlines, and ensures successful event management.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "FitTrack: Diet & Wellness",
+    "companyName": "FitSoft",
+    "id": 80,
+    "description": "FitTrack: Diet & Wellness enables users to manage workouts, nutrition, hydration, and sleep for optimal health. Users can set goals, track progress, and receive analytics. Motivational badges and community challenges keep users engaged. Wearable integration allows real-time health tracking. Secure storage ensures privacy. Suitable for beginners, fitness enthusiasts, and professionals, FitTrack combines diet tracking, exercise monitoring, and wellness management to empower users to maintain healthy habits, achieve fitness goals, and improve overall well-being.",
+    "size": 32,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "SmartDeals: Discounts & Coupons",
+    "companyName": "EasyApps",
+    "id": 81,
+    "description": "SmartDeals: Discounts & Coupons helps users find offers, track prices, and save money while shopping. Users can create lists, get notifications for deals, compare products, and manage coupons. Collaborative list sharing allows coordination with friends and family. Analytics provide insights on spending and savings. Secure storage protects financial data. Ideal for budget-conscious shoppers, SmartDeals combines convenience, insights, and smart alerts to improve shopping efficiency and decision-making.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "ProGamer: Mobile Games Hub",
+    "companyName": "NextGen",
+    "id": 82,
+    "description": "ProGamer: Mobile Games Hub provides access to a wide variety of mobile games, multiplayer competitions, and challenges. Users can browse games, track achievements, connect with friends, and receive recommendations. Leaderboards, tournaments, and social features enhance engagement. Secure storage protects account data. Suitable for casual and competitive gamers, ProGamer offers seamless gameplay, social interaction, and immersive entertainment, fostering skill development and community engagement.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "SnapMagic: Photo Editor & Collage",
+    "companyName": "BrightApps",
+    "id": 83,
+    "description": "SnapMagic: Photo Editor & Collage provides powerful tools to enhance, edit, and share photos. Users can apply filters, adjust brightness, contrast, add text or stickers, and create collages. Batch editing, templates, and tutorials cater to beginners and professionals. Secure cloud storage ensures safety of files. Social sharing allows posting creations on platforms. Suitable for photographers, content creators, and hobbyists, SnapMagic combines creativity, customization, and organization to enable high-quality image production and self-expression.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "ClimateWatch: Weather & Alerts",
+    "companyName": "TechNova",
+    "id": 84,
+    "description": "ClimateWatch: Weather & Alerts delivers real-time weather updates, forecasts, and severe weather notifications. Users can track temperature, precipitation, wind speed, and humidity. Interactive radar maps, graphs, and alerts help plan activities and stay safe. Secure handling of location data ensures privacy. Suitable for travelers, commuters, and outdoor enthusiasts, ClimateWatch combines accurate weather data, visualization, and actionable notifications to improve preparedness and safety during changing weather conditions.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "EduMaster: Courses & Tutorials",
+    "companyName": "EduSoft",
+    "id": 85,
+    "description": "EduMaster: Courses & Tutorials provides access to thousands of courses, video lessons, and learning resources. Users can track progress, complete quizzes, take notes, and get personalized recommendations. Collaborative features support discussions, group projects, and study sessions. Offline access and secure data storage ensure smooth learning. Suitable for students, professionals, and lifelong learners, EduMaster combines interactive tools, analytics, and content discovery to enhance knowledge acquisition, skill development, and engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "WanderMate: Travel Planner",
+    "companyName": "TravelSoft",
+    "id": 86,
+    "description": "WanderMate: Travel Planner helps users organize trips, manage itineraries, and explore destinations efficiently. Users can add flights, hotels, activities, and transportation details, set reminders, and share plans with friends or family. Offline maps, suggested routes, and notifications improve convenience. Budget tracking and analytics assist with expense management. Secure storage ensures privacy. Suitable for solo travelers, families, and adventurers, WanderMate provides an intuitive interface, interactive guides, and personalized recommendations, making travel smooth, enjoyable, and memorable while reducing planning stress.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "CoreFit: Home Fitness Tracker",
+    "companyName": "FitSoft",
+    "id": 87,
+    "description": "CoreFit: Home Fitness Tracker provides personalized workout routines, nutrition tracking, and wellness guidance. Users can follow guided exercises, monitor calories, sleep, and hydration, and track their progress. Community challenges, leaderboards, and motivational notifications keep users engaged. Wearable device integration allows real-time monitoring of health metrics. Secure storage protects user data. Suitable for beginners, fitness enthusiasts, and professionals, CoreFit combines fitness routines, nutrition tracking, and wellness management to help users achieve health goals and maintain overall well-being effectively.",
+    "size": 33,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "TuneStream: Music & Podcasts",
+    "companyName": "SoundSoft",
+    "id": 88,
+    "description": "TuneStream: Music & Podcasts provides access to millions of songs, podcasts, and radio stations. Users can create playlists, download offline, follow favorite artists, and get personalized recommendations. Collaborative playlists and social sharing enhance engagement. High-quality audio, equalizer settings, and offline access ensure an uninterrupted listening experience. Secure storage protects user preferences. Suitable for casual listeners and audiophiles, TuneStream combines music streaming, podcast discovery, and social features to deliver a rich and immersive audio entertainment experience anytime.",
+    "size": 31,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "PlanIt: Scheduler & Organizer",
+    "companyName": "TimeSoft",
+    "id": 89,
+    "description": "PlanIt: Scheduler & Organizer helps users manage appointments, tasks, and events efficiently. Users can set reminders, share calendars, prioritize tasks, and track productivity. Integration with external calendars ensures synchronization, while analytics provide insights into time management. Security features protect sensitive information. Suitable for professionals, students, and families, PlanIt combines planning, collaboration, and tracking to improve efficiency, meet deadlines, and ensure successful event management.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "HealthTrack: Diet & Wellness",
+    "companyName": "FitSoft",
+    "id": 90,
+    "description": "HealthTrack: Diet & Wellness helps users manage workouts, nutrition, hydration, and sleep to achieve optimal health. Users can set goals, track progress, and receive detailed analytics. Motivational challenges and community features keep users engaged. Integration with wearable devices allows real-time health monitoring. Secure storage ensures privacy. Suitable for beginners, fitness enthusiasts, and professionals, HealthTrack combines fitness routines, nutrition tracking, and wellness monitoring to empower users to maintain healthy habits and achieve overall well-being effectively.",
+    "size": 32,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "DealFinder: Coupons & Discounts",
+    "companyName": "EasyApps",
+    "id": 91,
+    "description": "DealFinder: Coupons & Discounts helps users discover offers, track prices, and save money while shopping. Users can create shopping lists, receive notifications for deals, compare products, and manage coupons. Collaborative list sharing allows coordination with friends and family. Analytics provide insights on spending and savings. Secure storage protects financial data. Ideal for budget-conscious shoppers, DealFinder combines convenience, insights, and smart alerts to improve shopping efficiency and maximize savings.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/game-controller.png",
+    "title": "GameZone: Mobile Games Hub",
+    "companyName": "NextGen",
+    "id": 92,
+    "description": "GameZone: Mobile Games Hub offers a wide variety of mobile games, multiplayer competitions, and challenges. Users can browse games, track achievements, connect with friends, and receive personalized recommendations. Leaderboards, tournaments, and social features enhance engagement. Secure storage protects account data. Suitable for casual and competitive gamers, GameZone provides seamless gameplay, social interaction, and immersive entertainment, fostering skill development and community engagement.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "PixLab: Photo Editor & Collage",
+    "companyName": "BrightApps",
+    "id": 93,
+    "description": "PixLab: Photo Editor & Collage provides tools to enhance, edit, and share photos. Users can apply filters, adjust colors, add text or stickers, and create collages. Batch editing, templates, and tutorials support both beginners and professionals. Secure cloud storage ensures safety of files. Social sharing allows posting creations on multiple platforms. Suitable for photographers, content creators, and hobbyists, PixLab combines creative tools, customization, and organization to produce high-quality images and enable self-expression effectively.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "WeatherAlert: Forecast & Safety",
+    "companyName": "TechNova",
+    "id": 94,
+    "description": "WeatherAlert: Forecast & Safety delivers real-time weather updates, forecasts, and severe weather notifications. Users can track temperature, precipitation, wind speed, and humidity. Interactive radar maps, graphs, and alerts help plan activities and stay safe. Secure handling of location data ensures privacy. Suitable for travelers, commuters, and outdoor enthusiasts, WeatherAlert combines accurate weather information, visualization, and notifications to improve preparedness and ensure safety during changing weather conditions.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "SkillUp: Courses & Tutorials",
+    "companyName": "EduSoft",
+    "id": 95,
+    "description": "SkillUp: Courses & Tutorials provides thousands of online courses, video lessons, and educational resources. Users can track learning progress, complete quizzes, take notes, and get personalized recommendations. Collaborative features support discussions, group projects, and study sessions. Offline access and secure storage ensure uninterrupted learning. Suitable for students, professionals, and lifelong learners, SkillUp combines interactive tools, analytics, and course management to enhance knowledge acquisition, skill development, and engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/travel.png",
+    "title": "TripMate: Travel Organizer",
+    "companyName": "TravelSoft",
+    "id": 96,
+    "description": "TripMate: Travel Organizer helps users plan trips, manage itineraries, and explore destinations efficiently. Users can add flights, accommodations, and activities, set reminders, and share plans with friends or family. Offline maps, suggested routes, and notifications improve convenience. Budget tracking and analytics assist in expense management. Secure storage ensures privacy. Suitable for solo travelers, families, and adventurers, TripMate provides an intuitive interface, interactive guides, and personalized recommendations, making travel smooth, enjoyable, and memorable while improving organization and reducing stress.",
+    "size": 34,
+    "reviews": 8721,
+    "ratingAvg": 4.6,
+    "downloads": 1354789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6428
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/fitness.png",
+    "title": "MoveFit: Home Fitness Coach",
+    "companyName": "FitSoft",
+    "id": 97,
+    "description": "MoveFit: Home Fitness Coach provides personalized workouts, nutrition tracking, and wellness guidance. Users can follow video exercises, monitor calories, sleep, and hydration, and track progress. Community challenges, leaderboards, and motivational notifications encourage engagement. Wearable integration allows real-time monitoring of health metrics. Secure storage protects personal data. Suitable for beginners, enthusiasts, and professionals, MoveFit combines fitness routines, nutrition, and wellness monitoring to help users achieve health goals, improve habits, and maintain overall well-being effectively.",
+    "size": 33,
+    "reviews": 8423,
+    "ratingAvg": 4.5,
+    "downloads": 1234567,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/music.png",
+    "title": "JamStream: Music & Radio",
+    "companyName": "SoundSoft",
+    "id": 98,
+    "description": "JamStream: Music & Radio offers access to millions of songs, podcasts, and live radio stations. Users can create playlists, download for offline listening, follow favorite artists, and receive personalized recommendations. Social sharing and collaborative playlists enhance engagement. High-quality audio and customizable equalizer settings provide optimal listening. Secure storage ensures privacy. Suitable for casual listeners and audiophiles, JamStream combines streaming, podcast discovery, and social features to deliver immersive audio entertainment anytime.",
+    "size": 31,
+    "reviews": 9123,
+    "ratingAvg": 4.6,
+    "downloads": 1456789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 412
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6139
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/calendar.png",
+    "title": "SchedMaster: Event Planner",
+    "companyName": "TimeSoft",
+    "id": 99,
+    "description": "SchedMaster: Event Planner helps users organize schedules, appointments, and tasks efficiently. Users can set reminders, share calendars, manage RSVPs, and prioritize activities. Analytics provide insights on productivity. Integration with external calendars ensures synchronization. Security features protect sensitive event information. Suitable for professionals, students, and families, SchedMaster combines planning, collaboration, and tracking to enhance efficiency, meet deadlines, and ensure successful event management.",
+    "size": 33,
+    "reviews": 8921,
+    "ratingAvg": 4.6,
+    "downloads": 1256789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 178
+      },
+      {
+        "name": "3 star",
+        "count": 522
+      },
+      {
+        "name": "4 star",
+        "count": 1982
+      },
+      {
+        "name": "5 star",
+        "count": 6407
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/health.png",
+    "title": "NutriTrack: Diet & Fitness",
+    "companyName": "FitSoft",
+    "id": 100,
+    "description": "NutriTrack: Diet & Fitness enables users to track meals, workouts, hydration, and sleep for optimal wellness. Users can set goals, monitor progress, and gain insights through analytics. Community challenges and achievement badges encourage engagement. Integration with wearable devices allows real-time health tracking. Secure storage ensures data privacy. Suitable for beginners, fitness enthusiasts, and professionals, NutriTrack combines nutrition, exercise, and wellness monitoring to empower users to maintain healthy habits, achieve fitness goals, and improve overall well-being.",
+    "size": 32,
+    "reviews": 8723,
+    "ratingAvg": 4.5,
+    "downloads": 1145789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 298
+      },
+      {
+        "name": "2 star",
+        "count": 172
+      },
+      {
+        "name": "3 star",
+        "count": 521
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 6220
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/shopping-cart.png",
+    "title": "PriceSaver: Coupons & Deals",
+    "companyName": "EasyApps",
+    "id": 101,
+    "description": "PriceSaver: Coupons & Deals helps users discover discounts, track prices, and save money. Users can create shopping lists, receive deal alerts, compare products, and manage coupons. Collaborative list sharing allows coordination with friends and family. Analytics provide insights on spending and savings. Secure storage protects financial data. Ideal for budget-conscious shoppers, PriceSaver combines convenience, insights, and smart notifications to improve shopping efficiency and cost-effectiveness.",
+    "size": 30,
+    "reviews": 8456,
+    "ratingAvg": 4.5,
+    "downloads": 1045123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 531
+      },
+      {
+        "name": "4 star",
+        "count": 2142
+      },
+      {
+        "name": "5 star",
+        "count": 6264
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/controller.png",
+    "title": "PlayHub: Games & Tournaments",
+    "companyName": "NextGen",
+    "id": 102,
+    "description": "PlayHub: Games & Tournaments offers mobile games, multiplayer competitions, and challenges. Users can browse games, track achievements, connect with friends, and receive personalized recommendations. Leaderboards, tournaments, and social features enhance engagement. Secure storage protects accounts. Suitable for casual and competitive gamers, PlayHub delivers seamless gameplay, community interaction, and immersive entertainment, fostering skill development and social engagement.",
+    "size": 35,
+    "reviews": 11234,
+    "ratingAvg": 4.7,
+    "downloads": 2141234,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 512
+      },
+      {
+        "name": "4 star",
+        "count": 2012
+      },
+      {
+        "name": "5 star",
+        "count": 8992
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/camera.png",
+    "title": "PhotoMagic: Editor & Collage",
+    "companyName": "BrightApps",
+    "id": 103,
+    "description": "PhotoMagic: Editor & Collage provides tools to edit, enhance, and share photos. Users can apply filters, adjust colors, add text or stickers, and create collages. Batch editing, templates, and tutorials support beginners and professionals. Secure cloud storage ensures safety of files. Social sharing allows posting creations on platforms. Suitable for photographers, content creators, and hobbyists, PhotoMagic combines creativity, customization, and organization to produce high-quality images and enable self-expression.",
+    "size": 30,
+    "reviews": 10432,
+    "ratingAvg": 4.6,
+    "downloads": 1876543,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 432
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 645
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 8700
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/weather.png",
+    "title": "WeatherGuard: Forecast & Alerts",
+    "companyName": "TechNova",
+    "id": 104,
+    "description": "WeatherGuard: Forecast & Alerts delivers real-time weather updates, forecasts, and severe weather notifications. Users can monitor temperature, precipitation, wind speed, and humidity. Interactive radar maps, graphs, and customizable alerts help plan activities and stay safe. Secure handling of location data ensures privacy. Suitable for travelers, commuters, and outdoor enthusiasts, WeatherGuard combines accurate weather data, visualization, and actionable notifications to improve preparedness and safety during changing weather conditions.",
+    "size": 28,
+    "reviews": 8421,
+    "ratingAvg": 4.5,
+    "downloads": 1345123,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 312
+      },
+      {
+        "name": "2 star",
+        "count": 154
+      },
+      {
+        "name": "3 star",
+        "count": 632
+      },
+      {
+        "name": "4 star",
+        "count": 1932
+      },
+      {
+        "name": "5 star",
+        "count": 6291
+      }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluency/512/book.png",
+    "title": "LearnHub: Online Courses",
+    "companyName": "EduSoft",
+    "id": 105,
+    "description": "LearnHub: Online Courses offers thousands of video lessons, tutorials, and educational resources. Users can track progress, complete quizzes, take notes, and receive personalized recommendations. Collaborative features support discussions, group study, and projects. Offline access and secure storage ensure uninterrupted learning. Suitable for students, professionals, and lifelong learners, LearnHub combines interactive tools, analytics, and content management to enhance knowledge acquisition, skill development, and educational engagement effectively.",
+    "size": 32,
+    "reviews": 8823,
+    "ratingAvg": 4.6,
+    "downloads": 1245789,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 321
+      },
+      {
+        "name": "2 star",
+        "count": 198
+      },
+      {
+        "name": "3 star",
+        "count": 532
+      },
+      {
+        "name": "4 star",
+        "count": 2121
+      },
+      {
+        "name": "5 star",
+        "count": 6251
+      }
+    ]
+  }
+]

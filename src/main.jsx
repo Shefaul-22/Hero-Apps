@@ -1,4 +1,4 @@
-import { StrictMode } from 'react'
+import { StrictMode, Suspense } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import './App.css'
@@ -11,9 +11,11 @@ import router from './routes/Routes'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
 
-    <RouterProvider router={router}>
+    <Suspense fallback={<div className="text-center p-10">Loading...</div>}>
 
-    </RouterProvider>
+      <RouterProvider router={router}></RouterProvider>
+
+    </Suspense>
 
   </StrictMode>,
 )
