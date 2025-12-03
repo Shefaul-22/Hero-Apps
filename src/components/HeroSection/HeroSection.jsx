@@ -1,5 +1,6 @@
 import React from 'react';
 import heroImage from "../../assets/hero.png"
+import { Link } from 'react-router';
 
 
 const HeroSection = () => {
@@ -11,16 +12,16 @@ const HeroSection = () => {
                 <p className='text-xl text-[#627382] text-center px-4 md:px-12 lg:px-60 mb-2 md:mb-8 '>At AppVerse, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
 
                 <div className='flex gap-3 justify-center items-center my-6 md:my-10'>
-                    <p className='flex items-center btn bg-[#F5F5F5] rounded-md border-2'>
+                    <Link to={`https://play.google.com/store/apps?pli=1`} target='_blank' className='flex items-center btn bg-[#F5F5F5] rounded-md border-2 hover:bg-gray-200'>
 
                         <img className='w-5 h-5 bg-[#F5F5F5]' src="https://i.ibb.co.com/spmbcz76/image.png" alt="" />
                         Google Play
-                    </p>
+                    </Link>
 
-                    <p className='flex items-center btn rounded-md  border-2'>
+                    <Link to={`https://www.apple.com/app-store`} target='_blank' className='flex items-center btn rounded-md  border-2'>
                         <img className='w-5 h-5' src="https://i.ibb.co.com/ZRdXJGWn/image.png" alt="" />
                         App Store
-                    </p>
+                    </Link>
 
                 </div>
 
