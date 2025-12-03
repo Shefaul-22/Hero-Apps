@@ -2,11 +2,17 @@ import React from 'react';
 import AppCard from '../AppCard/AppCard';
 import { Link } from 'react-router';
 
+import Loading from '../Loading/Loading';
+
 
 const TrendingApps = ({ appsData }) => {
 
-    const trendingAppsData = appsData.sort((a, b) => b.downloads - a.downloads).slice(0, 8);
+    
+    if(!appsData) {
+        return <Loading></Loading>
+    }
 
+    const trendingAppsData = appsData.sort((a, b) => b.downloads - a.downloads).slice(0, 8);
 
     return (
         <div className='py-14 md:py-20 bg-[#F5F5F5] px-4'>

@@ -50,7 +50,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end mr-3 md:mr-0">
-                <NavLink to={`https://github.com/Shefaul-22?tab=repositories`} className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] font-semibold text-[#ffffff] py-5 text-[16px]'><img className='w-6 h-6' src="https://i.ibb.co/C3y0HBNS/github.png"></img> Contribute</NavLink>
+                <NavLink to={`https://github.com/Shefaul-22?tab=repositories`} className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] font-semibold text-[#ffffff] py-5 text-[16px]'><img className='w-6 h-6' src="https://i.ibb.co.com/BK2S2CJL/image.png"></img> Contribute</NavLink>
             </div>
         </div>
     );
