@@ -10,7 +10,7 @@ const AppCard = ({ app }) => {
     
 
     return (
-        <Link to={`appsDetails/${id}`}>
+        <Link to={`appsDetails/${id}`} className='bg-[#F5F5F5]'>
             <div className='rounded-md shadow-md p-4 hover:scale-110 cursor-pointer transition-transform duration-500 ease-in-out'>
                 <div className='rounded-xl flex justify-center bg-[#D9D9D9]'>
                     <img className='w-44 h-44 ' src={app.image} alt="app image" />

@@ -21,7 +21,7 @@ const Apps = () => {
                 setAppsData(data);
                 setLoading(false);
             })
-    })
+    }, [])
 
     const handleSearch = (e) => {
         setSearchLoading(true);
