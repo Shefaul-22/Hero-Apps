@@ -5,6 +5,7 @@ import downloadIcon from '../../assets/icon-downloads.png';
 import ratingIcon from '../../assets/icon-ratings.png';
 import reviewIcon from '../../assets/icon-review.png';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from 'recharts';
+import { addInstallToLocalDB } from '../../Utility/addInstallAppsToLocalDB';
 
 
 const AppDetails = () => {
@@ -28,7 +29,7 @@ const AppDetails = () => {
     }, []);
 
     const singleApp = appsData.find(app => app.id === appId);
-    console.log(singleApp);
+    // console.log(singleApp);
 
     if (loading || !singleApp) {
         return <Loading></Loading>
@@ -44,6 +45,13 @@ const AppDetails = () => {
         { name: twoStar.name, count: twoStar.count },
         { name: oneStar.name, count: oneStar.count }
     ];
+
+
+    const handleInstall = (id) => {
+
+        console.log(id);
+        addInstallToLocalDB(id)
+    }
 
 
     return (
@@ -81,7 +89,7 @@ const AppDetails = () => {
                             </div>
                         </div>
 
-                        <button className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
+                        <button onClick={()=> handleInstall(id)} className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
                             Install Now ({size} MB)
                         </button>
                     </div>
@@ -119,7 +127,7 @@ const AppDetails = () => {
 
                                 <Bar
                                     dataKey="count"
-                                    fill="#FF8A00"
+                                    fill="#FF8811"
 
                                     barSize={25}
                                 />
@@ -129,8 +137,6 @@ const AppDetails = () => {
                 </div>
 
                 <div className="border-t border-gray-300 mt-4 md:mt-10 w-full"></div>
-
-
 
 
                 {/* description */}
@@ -171,6 +177,7 @@ const AppDetails = () => {
                     {/* <p className="text-[#627382] leading-relaxed whitespace-pre-line">
                         {description}
                     </p> */}
+
                 </div>
 
             </div>
