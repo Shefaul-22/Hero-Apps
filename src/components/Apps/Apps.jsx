@@ -30,7 +30,7 @@ const Apps = () => {
 
         setTimeout(() => {
             setSearchLoading(false);
-        }, 200); // 200ms delay
+        }, 200); 
     };
 
     const filteredApps = appsData.filter(app =>

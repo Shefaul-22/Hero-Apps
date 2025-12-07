@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import { ToastContainer, toast } from 'react-toastify';
+
 import { useParams } from 'react-router';
 import Loading from '../Loading/Loading';
 import downloadIcon from '../../assets/icon-downloads.png';
@@ -6,6 +8,7 @@ import ratingIcon from '../../assets/icon-ratings.png';
 import reviewIcon from '../../assets/icon-review.png';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from 'recharts';
 import { addInstallToLocalDB } from '../../Utility/addInstallAppsToLocalDB';
+import appNotfoundImg from '../../assets/App-Error.png'
 
 
 const AppDetails = () => {
@@ -31,8 +34,27 @@ const AppDetails = () => {
     const singleApp = appsData.find(app => app.id === appId);
     // console.log(singleApp);
 
-    if (loading || !singleApp) {
+    if (loading) {
         return <Loading></Loading>
+    }
+
+    if (!singleApp) {
+
+        return (
+            <div className='pt-20'>
+                <div className=" max-w-7xl mx-auto flex flex-col items-center justify-center  text-center ">
+
+                    <img className='w-72 h-72 mb-8' src={appNotfoundImg} alt="App not found image" />
+
+                    <h2 className="text-2xl md:text-5xl font-semibold mb-2 text-[#001931]">OPPS!! APP NOT FOUND</h2>
+
+                    <p className="text-[#627382] my-3 text-[14px] md:text-xl ">The App you are requesting is not found on our system.  please try another apps.
+                    </p>
+
+                    <a href="/apps" className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] mt-2 text-white">Go Back!</a>
+                </div>
+            </div>
+        );
     }
     const { image, title, companyName, description, size, reviews, ratingAvg, downloads, ratings } = singleApp;
 
@@ -49,8 +71,9 @@ const AppDetails = () => {
 
     const handleInstall = (id) => {
 
-        console.log(id);
+        // console.log(id);
         addInstallToLocalDB(id)
+        toast("Apps installed successfully");
     }
 
 
@@ -77,11 +100,13 @@ const AppDetails = () => {
                                 <p className="text-gray-500 text-sm my-2">Downloads</p>
                                 <p className="text-[#001931] font-extrabold text-3xl md:text-4xl">{(downloads / 1000000).toFixed(1)}M</p>
                             </div>
+
                             <div>
                                 <img className='w-6 h-6' src={ratingIcon} alt="" />
                                 <p className="text-gray-500 text-sm my-2">Average Ratings</p>
                                 <p className="text-[#001931] font-extrabold text-3xl md:text-4xl ">{ratingAvg}</p>
                             </div>
+
                             <div>
                                 <img className='w-6 h-6' src={reviewIcon} alt="" />
                                 <p className="text-gray-500 text-sm my-2">Total Reviews</p>
@@ -89,7 +114,7 @@ const AppDetails = () => {
                             </div>
                         </div>
 
-                        <button onClick={()=> handleInstall(id)} className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
+                        <button onClick={() => handleInstall(id)} className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
                             Install Now ({size} MB)
                         </button>
                     </div>
@@ -145,21 +170,21 @@ const AppDetails = () => {
 
                     {
                         (() => {
-                            const words = description.split(" "); 
+                            const words = description.split(" ");
                             const chunks = [];
                             let temp = [];
 
                             words.forEach((word) => {
                                 temp.push(word);
 
-                               
+
                                 if (temp.length >= 80 && /[.!?]$/.test(word)) {
                                     chunks.push(temp.join(" "));
                                     temp = [];
                                 }
                             });
 
-                            
+
                             if (temp.length) chunks.push(temp.join(" "));
 
                             return chunks.map((part, i) => (
@@ -170,7 +195,7 @@ const AppDetails = () => {
                                     {part}
                                 </p>
                             ));
-                        }) ()
+                        })()
                     }
 
 
@@ -181,6 +206,7 @@ const AppDetails = () => {
                 </div>
 
             </div>
+            <ToastContainer />
         </div>
     );
 };

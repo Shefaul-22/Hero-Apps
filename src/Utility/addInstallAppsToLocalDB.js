@@ -18,7 +18,7 @@ const addInstallToLocalDB = (id) => {
     
     if(storedInstallData.includes(id)){
 
-        alert("This item is already Exist");
+        alert("This app is already installed on your device");
 
     }
 
@@ -31,4 +31,14 @@ const addInstallToLocalDB = (id) => {
 
 }
 
-export { addInstallToLocalDB, getInstallApps};
+const removeInstallAppsFromLocalDB = (id) => {
+    const storedInstallData = getInstallApps();
+
+    const updatedData = storedInstallData.filter(appId => Number(appId) !== Number(id));
+
+    localStorage.setItem("installedApps", JSON.stringify(updatedData));
+};
+
+
+
+export { addInstallToLocalDB, getInstallApps, removeInstallAppsFromLocalDB };

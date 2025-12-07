@@ -7,14 +7,15 @@ const Navbar = () => {
 
     const links = <>
 
-        <li><NavLink to="/" className={`font-semibold text-[16px] nav-link`}>Home</NavLink></li>
-        <li><NavLink to="/apps" className={`font-semibold text-[16px] nav-link`}>Apps</NavLink></li>
-        <li><NavLink to="/installation" className={`font-semibold text-[16px] nav-link`}>Installation</NavLink></li>
+        <li><NavLink to="/" className={`font-semibold text-[16px] nav-link`} end>Home</NavLink></li>
+        <li><NavLink to="/apps" className={`font-semibold text-[16px] nav-link`} end>Apps</NavLink></li>
+        <li><NavLink to="/installation" className={`font-semibold text-[16px] nav-link`}
+        end >My Installation</NavLink></li>
 
     </>
 
     return (
-        <div className="navbar bg-[#FFFFFF] shadow-sm px-5 md:px-12 py-3 md:py-5 ">
+        <div className="navbar bg-[#FFFFFF] shadow-sm px-5 md:px-12 py-3 md:py-5 sticky top-0 z-50">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
