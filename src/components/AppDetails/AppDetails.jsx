@@ -7,7 +7,7 @@ import downloadIcon from '../../assets/icon-downloads.png';
 import ratingIcon from '../../assets/icon-ratings.png';
 import reviewIcon from '../../assets/icon-review.png';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from 'recharts';
-import { addInstallToLocalDB } from '../../Utility/addInstallAppsToLocalDB';
+import { addInstallToLocalDB, getInstallApps } from '../../Utility/addInstallAppsToLocalDB';
 import appNotfoundImg from '../../assets/App-Error.png'
 
 
@@ -19,6 +19,8 @@ const AppDetails = () => {
 
     const [appsData, setAppsData] = useState([])
     const [loading, setLoading] = useState(true);
+    const [isInstalled, setIsInstalled] = useState(false);
+
 
 
     useEffect(() => {
@@ -30,6 +32,13 @@ const AppDetails = () => {
                 setLoading(false);
             })
     }, []);
+
+    // checking if already installed
+    useEffect(() => {
+        const installed = getInstallApps().includes(appId);
+        setIsInstalled(installed);
+    }, [appId]);
+
 
     const singleApp = appsData.find(app => app.id === appId);
     // console.log(singleApp);
@@ -72,10 +81,13 @@ const AppDetails = () => {
     const handleInstall = (id) => {
 
         // console.log(id);
-        addInstallToLocalDB(id)
+        addInstallToLocalDB(id);
+        setIsInstalled(true);
         toast("Apps installed successfully");
     }
 
+    // const installedApps = getInstallApps();
+    // const isInstalled = installedApps.includes(id);
 
     return (
         <div className=" bg-[#F5F5F5]">
@@ -114,9 +126,27 @@ const AppDetails = () => {
                             </div>
                         </div>
 
-                        <button onClick={() => handleInstall(id)} className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
+                        {/* <button onClick={() => handleInstall(id)} className="mt-9 px-6 py-3 bg-[#29D390] text-white  rounded-lg font-bold cursor-pointer">
                             Install Now ({size} MB)
-                        </button>
+                        </button> */}
+
+                        {isInstalled ? (
+                            <button
+                                disabled
+                                className="mt-9 px-6 py-3 bg-gray-400 text-white rounded-lg font-bold cursor-not-allowed"
+                            >
+                                Installed
+                            </button>
+                        ) : (
+                            <button
+                                onClick={() => handleInstall(appId)}
+                                className="mt-9 px-6 py-3 bg-[#29D390] text-white rounded-lg font-bold cursor-pointer"
+                            >
+                                Install Now ({size} MB)
+                            </button>
+                        )}
+
+
                     </div>
                 </div>
 
