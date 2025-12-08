@@ -37,20 +37,20 @@ const HeroSection = () => {
 
                     <div className='flex justify-between px-2 md:px-36 lg:px-44'>
                         <div className='space-y-4'>
-                            <p className='text-center text-[16px] text-white'>Total Downloads</p>
-                            <h3 className='text-center  text-white font-extrabold text-4xl md:text-6xl'>29.6M</h3>
+                            <p className='text-center text-xs md:text-[16px] text-white'>Total Downloads</p>
+                            <h3 className='text-center  text-white font-extrabold text-2xl md:text-6xl'>29.6M</h3>
                             <p className='text-center text-xs md:text-[16px] text-white'>21% more than last month</p>
 
                         </div>
                         <div className='space-y-4'>
-                            <p className='text-center text-[16px] text-white'>Total Reviews</p>
-                            <h3 className='text-center  text-white font-extrabold text-4xl md:text-6xl'>906K</h3>
+                            <p className='text-center text-xs md:text-[16px] text-white'>Total Reviews</p>
+                            <h3 className='text-center  text-white font-extrabold text-2xl md:text-6xl'>906K</h3>
                             <p className='text-center text-xs md:text-[16px] text-white'>46% more than last month</p>
 
                         </div>
                         <div className='space-y-4'>
-                            <p className='text-center text-[16px] text-white'>Active Apps</p>
-                            <h3 className='text-center  text-white font-extrabold text-4xl md:text-6xl'>132+</h3>
+                            <p className='text-center text-xs md:text-[16px] text-white'>Active Apps</p>
+                            <h3 className='text-center  text-white font-extrabold text-2xl md:text-6xl'>132+</h3>
                             <p className='text-center text-xs md:text-[16px] text-white'>31 more will Launch</p>
 
                         </div>
