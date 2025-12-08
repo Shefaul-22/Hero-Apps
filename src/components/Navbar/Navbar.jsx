@@ -15,7 +15,7 @@ const Navbar = () => {
     </>
 
     return (
-        <div className="navbar bg-[#FFFFFF] shadow-sm px-5 md:px-12 py-3 md:py-5 sticky top-0 z-50">
+        <div className="navbar bg-[#FFFFFF] shadow-sm px-2 md:px-12 py-3 md:py-5 sticky top-0 z-50">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -37,7 +37,7 @@ const Navbar = () => {
 
                     <img className='w-11 h-11 ' src={logo} alt="" />
 
-                    <h2 className=" text-2xl bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold ">AppVerse</h2>
+                    <h2 className=" text-xl md:text-2xl bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold ">AppVerse</h2>
 
                 </NavLink>
 
@@ -50,9 +50,11 @@ const Navbar = () => {
                     }
                 </ul>
             </div>
-            <div className="navbar-end mr-3 md:mr-0">
-                <NavLink to={`https://github.com/Shefaul-22?tab=repositories`} className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] font-semibold text-[#ffffff] py-5 text-[16px]'><img className='w-6 h-6' src="https://i.ibb.co.com/BK2S2CJL/image.png"></img> Contribute</NavLink>
+
+            <div className="navbar-end mr-0 ">
+                <NavLink to={`https://github.com/Shefaul-22?tab=repositories`} className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] font-semibold text-[#ffffff] py-5 text-xs md:text-[16px]'><img className='w-6 h-6' src="https://i.ibb.co.com/BK2S2CJL/image.png"></img> Contribute</NavLink>
             </div>
+
         </div>
     );
 };
