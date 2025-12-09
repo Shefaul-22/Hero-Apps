@@ -95,47 +95,48 @@ const InstalledApps = () => {
 
 
                 <div className="space-y-4">
-                    {sortedApps.map((app) => (
-                        <div
-                            key={app.id}
-                            className="flex items-center justify-between p-4 bg-white shadow rounded-md"
-                        >
+                    {
+                        sortedApps.map((app) => (
+                            <div
+                                key={app.id}
+                                className="flex items-center flex-col md:flex-row justify-between p-4 bg-white shadow rounded-md"
+                            >
 
-                            <div className="flex items-center gap-4">
-                                <img
-                                    src={app.image}
-                                    alt={app.title}
-                                    className="w-16 h-16 rounded-lg bg-[#D9D9D9] object-cover"
-                                />
+                                <div className="flex items-center gap-4">
+                                    <img
+                                        src={app.image}
+                                        alt={app.title}
+                                        className="w-16 h-16 rounded-lg bg-[#D9D9D9] object-cover"
+                                    />
 
-                                <div>
-                                    <h2 className="text-lg font-semibold">{app.title}</h2>
+                                    <div>
+                                        <h2 className="text-lg font-semibold">{app.title}</h2>
 
-                                    <div className="flex items-center gap-4 text-sm mt-1">
+                                        <div className="flex items-center gap-4 text-sm mt-1">
 
-                                        <div className="flex items-center gap-1 text-[#00D390]">
-                                            <img className='w-4 h-4 mr-1' src={downloadIcon} alt="download icon" />
-                                            <span>{((app.downloads) / 1000000).toFixed(1)}M</span>
+                                            <div className="flex items-center gap-1 text-[#00D390]">
+                                                <img className='w-4 h-4 mr-1' src={downloadIcon} alt="download icon" />
+                                                <span>{((app.downloads) / 1000000).toFixed(1)}M</span>
+                                            </div>
+
+                                            <div className="flex items-center gap-1 text-[#FF8811]">
+
+                                                <img className='w-4 h-4 mr-1' src={ratingIcon} alt="rating icon" />
+                                                <span>{app.ratingAvg}</span>
+
+                                            </div>
+
+                                            <div className="text-[#627382]" >{app.size} MB</div>
                                         </div>
-
-                                        <div className="flex items-center gap-1 text-[#FF8811]">
-
-                                            <img className='w-4 h-4 mr-1' src={ratingIcon} alt="rating icon" />
-                                            <span>{app.ratingAvg}</span>
-
-                                        </div>
-
-                                        <div className="text-[#627382]" >{app.size} MB</div>
                                     </div>
                                 </div>
-                            </div>
 
-                            {/* Uninstall btn */}
-                            <button onClick={() => handleUninstall(app.id)} className="bg-[#00D390] text-[#ffffff] px-4 py-2 rounded-md cursor-pointer">
-                                Uninstall
-                            </button>
-                        </div>
-                    ))}
+                                {/* Uninstall btn */}
+                                <button onClick={() => handleUninstall(app.id)} className="bg-[#00D390] text-[#ffffff] px-4 py-2 rounded-md cursor-pointer mt-3 md:mt-0">
+                                    Uninstall
+                                </button>
+                            </div>
+                        ))}
                 </div>
             </div>
 
