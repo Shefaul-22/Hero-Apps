@@ -24,7 +24,6 @@ const InstalledApps = () => {
     const [installedApps, setInstalledApps] = useState(installedAppsList);
 
 
-
     // sorting 
     const sortedApps = [...installedApps].sort((a, b) => {
         if (sortBy === "high-low") {
