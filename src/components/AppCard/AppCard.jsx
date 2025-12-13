@@ -11,10 +11,10 @@ const AppCard = ({ app }) => {
 
     return (
         <Link to={`appsDetails/${id}`} className='bg-[#F5F5F5]'>
-            <div className='rounded-md shadow-md p-3 md:p-4 hover:scale-105 md:hover:scale-110 cursor-pointer transition-transform duration-500 ease-in-out'>
+            <div className='rounded-md shadow-md p-3 md:p-4 hover:scale-105 md:hover:scale-105 cursor-pointer transition-transform duration-500 ease-in-out'>
 
                 <div className='rounded-xl flex justify-center bg-[#D9D9D9]'>
-                    <img className='w-full h-auto md:w-72 md:h-68 p-1' src={app.image} alt="app image" />
+                    <img className='w-full h-auto md:w-72 md:h-68  rounded-md' src={app.image} alt="app image" />
                 </div>
 
                 <p className='font-medium  text-[#001931] my-4 h-10'>{app.title}</p>
