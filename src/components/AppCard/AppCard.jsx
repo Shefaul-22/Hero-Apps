@@ -11,11 +11,14 @@ const AppCard = ({ app }) => {
 
     return (
         <Link to={`appsDetails/${id}`} className='bg-[#F5F5F5]'>
-            <div className='rounded-md shadow-md p-8 md:p-4 hover:scale-105 md:hover:scale-110 cursor-pointer transition-transform duration-500 ease-in-out'>
+            <div className='rounded-md shadow-md p-3 md:p-4 hover:scale-105 md:hover:scale-110 cursor-pointer transition-transform duration-500 ease-in-out'>
+
                 <div className='rounded-xl flex justify-center bg-[#D9D9D9]'>
-                    <img className='w-72 h-68 md:w-64 md:h-60 lg:w-44 lg:h-44 ' src={app.image} alt="app image" />
+                    <img className='w-full h-auto md:w-72 md:h-68 p-1' src={app.image} alt="app image" />
                 </div>
+
                 <p className='font-medium  text-[#001931] my-4 h-10'>{app.title}</p>
+
                 <div className='flex justify-between'>
                     <p className='flex items-center btn bg-[#F1F5E8] font-medium text-[#00D390]'> <img className='w-4 h-4 mr-1' src={downloadIcon} alt="download icon" /> {(app.downloads / 1000000).toFixed(1)}M</p>
 
